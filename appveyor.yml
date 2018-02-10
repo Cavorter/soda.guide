@@ -3,7 +3,7 @@ build_script:
 - ps: >-
     choco install hugo -y
 
-    hugo
+    hugo -v --debug
 
     Get-ChildItem .\public\*
 
