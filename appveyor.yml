@@ -1,0 +1,22 @@
+version: 1.0.{build}
+build_script:
+- ps: >-
+    choco install hugo -y
+
+    hugo
+
+    Compress-Archive -Path .\public\* -DestinationPath "soda.guide.$($env:APPVEYOR_BUILD_VERSION).zip" -CompressionLevel Optimal
+artifacts:
+- path: soda.guide.*.zip
+  name: blogPackage
+deploy:
+- provider: AzureBlob
+  storage_account_name: cavort001
+  storage_access_key:
+    secure: OTBmonMnFn3TcLJuo0VACem13VO7vumoBSSEinbaYu3RRJWtEbKaDw4anblnwmItuOBqXtpXUD7HJ6XDO8zUCrtGXmH2am0RaaJp8u3JU/yy+1l9+V+l7XBl0yOjJKBY
+  container: soda
+  artifact: blogPackage
+  unzip: true
+  set_content_type: true
+  on:
+    branch: master
