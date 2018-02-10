@@ -5,6 +5,8 @@ build_script:
 
     hugo
 
+    Get-ChildItem .\public\*
+
     Compress-Archive -Path .\public\* -DestinationPath "soda.guide.$($env:APPVEYOR_BUILD_VERSION).zip" -CompressionLevel Optimal
 artifacts:
 - path: soda.guide.*.zip
