@@ -10,7 +10,7 @@ canonifyurls        = true                              # Turns relative urls in
 # googleAnalytics   = "xxx"
 
 [params]
-    bloghead            = "Blog"                        # Full name shows on blog post pages
+    bloghead            = "Reviews"                        # Full name shows on blog post pages
     firstname           = "Nathan"                # First name shows in introduction on main page
     tagline             = "I write short soda reviews on Twitter."       # Appears after the introduction
     introheight         = "fullheight"                       # Input either 'medium' or 'large' or 'fullheight'
@@ -29,7 +29,7 @@ canonifyurls        = true                              # Turns relative urls in
     footertext          = ""                            # Text to show in footer (overrides default text)
     fadein              = true                          # Turn on/off the fade-in effect
 
-    showblog            = false                          # Show Blog section on home page
+    showblog            = true                          # Show Blog section on home page
     showprojects        = false                          # Show Projects section on home page
     projectcolumns      = "3"                           # Choose "2" or "3" columns for projects section
     placeholderimg      = "/img/workday.jpg"            # For Projects without image
