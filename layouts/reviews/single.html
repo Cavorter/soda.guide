@@ -60,6 +60,10 @@
         {{ .Content }}
     </div><!-- End blog post content -->
 
+    <div class="tag-list">
+        {{ .Tags }}
+    </div>
+
     <div class="disqus">
         {{ template "_internal/disqus.html" . }}
     </div>
