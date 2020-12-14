@@ -1,15 +1,17 @@
 ---
-title: "Steaz" # Title of the blog post.
-date: 2009-06-28
+title: "Bubble Up" # Title of the blog post.
+date: 2010-05-11
 categories:
 - soda
+tags:
+- Citrus
 brands:
-- Steaz
+- Bubble Up
 ---
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 2378142940 >}}
+{{< tweet 13816746306 >}}
 
 In case the tweet is ever deleted, it reads:
-> Slowly working my way through the Steaz flavors again since it's been a few years. Today Grape (Eh) and Lemon Dew (Yum).
+> Birthday Soda Day 6: Bubble Up
