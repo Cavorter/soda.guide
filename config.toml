@@ -6,7 +6,7 @@ author = "Nathan Stohlmann"
 copyright = "Copyright © 2020 Nathan Stohlmann all rights reserved."
 # canonifyurls = true
 paginate = 10
-theme = "github.com/chipzoller/hugo-clarity"
+theme = "hugo-clarity"
 
 # disqusShortname = ""
 
@@ -54,6 +54,9 @@ introDescription = "A guide to the wide world of soft drinks with short reviews.
 
 # Google analytics Id
 # ga_analytics = "XXXXXXXXXX"
+
+# GoatCounter
+goatcounter = "cavort"
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
