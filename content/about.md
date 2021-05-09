@@ -35,3 +35,11 @@ Here in the Twin Cities are are also fortunate to have two very good specialty r
 I like to visit small specialty markets, expecially those that cater to cultures and cuisines that were note part of my upbringing, and often find really interesting things to try.
 
 TLDR - As with any hobby the real trick is to know what you are looking for and actually go looking for it. Sometimes you find things in the strangest places. Just be warned that shipping bottles of liquids from long distances can get **very** expensive.
+
+#### Why don't you review any cherry flavored drinks?
+
+Natural cherry is one of my most favorite flavors, but unfortunately it causes me significant digestive disruption even in it's more artificial incarnations. I will always dream about a hot August day near Mount Hood in Oregon with a bag of fresh picked cherries still warm from the afternoon sun though.
+
+#### Why don't you review more drinks with artificial sweeteners?
+
+The answer is sometimes similar to my issue with cherries, sometimes an issue of preference, and sometimes an issue of availability. I have always intended to add a few more "diet" sodas and maybe someday a few more will appear but it is unlikely that they will ever be anything like a majority here. That said the drinks I sample do not have to have any sweetener at all and there are quite a few with little to no sugar that I have rated quite highly over the years.

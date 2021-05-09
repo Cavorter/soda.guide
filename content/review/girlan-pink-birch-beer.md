@@ -5,7 +5,10 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://pbs.twimg.com/media/BRATAYLCYAE7GE8?format=jpg&name=medium" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
+rating:
+- ok
 tags:
+- SUGARBOMB
 - Birch Beer
 - Pink
 brands:
@@ -15,5 +18,9 @@ brands:
 
 {{< tweet 364812467014098944 >}}
 
-In case the tweet is ever deleted, it reads:
+{{< tweet 364817662422941696 >}}
+
+In case these tweets are ever deleted, they read:
 > Today's lunch soda: Girlan Pink Birch Beer
+
+> Girlan Pink Birch Beer: Seems to be a birch beer/cream soda hybrid. Definitely "sugar bomb" class. Not bad, but won't get more.
