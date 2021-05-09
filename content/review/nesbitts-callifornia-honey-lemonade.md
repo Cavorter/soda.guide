@@ -1,7 +1,7 @@
 ---
 title: "Nesbitts Callifornia Honey Lemonade" # Title of the blog post.
 date: 2010-05-09
-thumbnail: "https://dn3pm25xmtlyu.cloudfront.net/photos/large/98223920.jpg?Expires=1609187233&Signature=Tlw0ekYVF8zdeGMiY5GPFImO3sD3p4nFkrXQuMELM6ORntdC2V4w7QAzBro0cHxu8Ev6s6Ze~KdrDGEik1-CD0Wg01KDa4U~jLeYStudr-HUKKTaqstlZ0lgerbnGP6Xx-m4nbbDxQns4stTWF87vO8Dlz6ruRgYGByjb~if3rAKdP79DBZzXdKy0qV9KRABq3uc4Gr5Ok4Vyjhy4qy~4b2EbIXfNkiTvRnW4qCASDKN~j1jlA8n7213erNKrvEcL6JYciD-x4tY9X20hs4BfJzHgo5xXzaLGVli2iQYqTXkBnjg3RM0-QXnq~uGyfnWMo7yzCXduk2M7c~TfB9N2g__&Key-Pair-Id=APKAJROXZ7FN26MABHYA"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/nesbitts-callifornia-honey-lemonade.jpg"
 categories:
 - soda
 tags:

@@ -6,9 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/wat
 categories:
 - water
 rating:
-- pass
 - ok
-- recomended
 tags:
 - Not Sweet
 - fruit
