@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}" # Title of the blog post.
 date: {{ .Date }} # Date of post creation.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
-thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
+featured: false # Sets if post is a featured post, making appear on the home page side bar.
+thumbnail: "{{ .Site.Params.image_root }}/review/thumbs/{{ .Name }}.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
 - water
@@ -25,4 +25,4 @@ brands:
 
 **Review text here**
 
-{{< figure src="/images/path/thumbnail.png" >}}
+{{< figure src="{{ .Site.Params.image_root }}/review/{{ .Name }}.jpg" >}}
