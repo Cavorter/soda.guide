@@ -8,7 +8,7 @@ thumbnail: "https://pbs.twimg.com/media/EexjYwZXgAAJjLv?format=jpg" # Sets thumb
 categories:
 - tea
 ratings:
-- recomended
+- Recommended
 tags:
 - Slightly Sweet
 - floral

@@ -6,7 +6,7 @@ thumbnail: "https://pbs.twimg.com/media/Een-27_X0AY72EQ?format=jpg" # Sets thumb
 categories:
 - water
 rating:
-- recomended
+- Recommended
 tags:
 - Slightly Sweet
 - alow vera

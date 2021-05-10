@@ -4,7 +4,7 @@ date: 2008-11-18 # Date of post creation.
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Slightly Sweet
 - Lemongrass

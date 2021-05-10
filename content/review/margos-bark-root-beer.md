@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/mar
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Medium Sweet
 - root beer

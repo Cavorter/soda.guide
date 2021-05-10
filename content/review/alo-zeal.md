@@ -6,7 +6,7 @@ thumbnail: "https://pbs.twimg.com/media/EeWVUB_XYAEyLVD?format=jpg" # Sets thumb
 categories:
 - water
 rating:
-- recomended
+- Recommended
 tags:
 - Medium Sweet
 - chunky

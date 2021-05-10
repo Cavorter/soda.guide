@@ -5,7 +5,7 @@ thumbnail: "https://dn3pm25xmtlyu.cloudfront.net/photos/large/215054667.jpg?Expi
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Quite Sweet
 - Ginger

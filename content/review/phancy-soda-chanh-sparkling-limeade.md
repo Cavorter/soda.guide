@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/pha
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Quite Sweet
 brands:

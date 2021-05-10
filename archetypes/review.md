@@ -11,7 +11,7 @@ categories:
 rating:
 - pass
 - ok
-- recomended
+- Recommended
 tags:
 - Not Sweet
 - Slightly Sweet

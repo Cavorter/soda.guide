@@ -4,7 +4,7 @@ date: 2009-06-17
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Quite Sweet
 brands:

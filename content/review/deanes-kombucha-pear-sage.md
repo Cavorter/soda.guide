@@ -6,7 +6,7 @@ thumbnail: "https://pbs.twimg.com/media/EQgz9wyWkAEx-jI?format=jpg&name=large" #
 categories:
 - kombucha
 rating:
-- recomended
+- Recommended
 tags:
 - Slightly Sweet
 - floral

@@ -6,7 +6,7 @@ thumbnail: "https://pbs.twimg.com/media/BSDWBOLCEAEIZ_z?format=jpg&name=small" #
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Boysenberry
 - Berry

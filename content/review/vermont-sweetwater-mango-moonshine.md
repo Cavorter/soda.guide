@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/ver
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Medium Sweet
 - fruit

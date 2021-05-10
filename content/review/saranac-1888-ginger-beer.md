@@ -6,7 +6,7 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 categories:
 - soda
 rating:
-- recomended
+- Recommended
 tags:
 - Quite Sweet
 - ginger beer
