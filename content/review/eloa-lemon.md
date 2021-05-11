@@ -9,7 +9,7 @@ rating:
 - Recommended
 tags:
 - Slightly Sweet
-- alow vera
+- aloe vera
 - lemon
 - citrus
 - chunky

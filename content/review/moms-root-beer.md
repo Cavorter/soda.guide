@@ -2,7 +2,7 @@
 title: "Moms Root Beer" # Title of the blog post.
 date: 2014-07-10T18:13:00-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
-#thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/moms-root-beer.jpg" # Sets thumbnail image appearing inside card on homepage.
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/moms-root-beer.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
 rating:

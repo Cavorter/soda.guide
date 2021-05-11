@@ -28,18 +28,18 @@ I have definitely tried a few drinks that were well outside the white, suburban,
 #### Where do you find all of these drinks?
 15 years ago this was a much more common question and had a lot fewer answers. However since then the relative popularity of regional and small batch soft drinks has really exploded and places that carry them along with it. These days in the Twin Cities metro even at most super markets there will be a selection of at least 4 or 5 lesser known brands and several have full sections of shelf space in the "health food" or beverage sections devoted to a wide variety of soft drinks, sodas and otherwise. For example my local convenience store, [Tim and Tom's Speedy Mart](https://timandtomsspeedymarket.com), tends to stock at least 20 different interesting bottles at any given time.
 
-Here in the Twin Cities are are also fortunate to have two very good specialty retailers that carry hundreds and sometimes thousands of different bottles though:
+Here in the Twin Cities we are also fortunate to have two very good specialty retailers that carry hundreds and sometimes thousands of different bottles:
 - [Blue Sun Soda Shop](https://bluesunsodashop.com/) now has two locations and is probably the best source locally.
-- [Minnesota's Largest Candy Store](https://g.page/MinnesotasLargestCandyStore?share) is a really good second option and offers more for anyone else who might come along for the trip.
+- [Minnesota's Largest Candy Store](https://g.page/MinnesotasLargestCandyStore?share) is a really good second option and offers other things than soda for anyone else who might come along for the trip.
 
-I like to visit small specialty markets, expecially those that cater to cultures and cuisines that were note part of my upbringing, and often find really interesting things to try.
+I like to visit small specialty markets, expecially those that cater to cultures and cuisines that were not part of my upbringing, and often find really interesting things to try.
 
 TLDR - As with any hobby the real trick is to know what you are looking for and actually go looking for it. Sometimes you find things in the strangest places. Just be warned that shipping bottles of liquids from long distances can get **very** expensive.
 
 #### Why don't you review any cherry flavored drinks?
 
-Natural cherry is one of my most favorite flavors, but unfortunately it causes me significant digestive disruption even in it's more artificial incarnations. I will always dream about a hot August day near Mount Hood in Oregon with a bag of fresh picked cherries still warm from the afternoon sun though.
+Natural cherry is one of my most favorite flavors but unfortunately it causes me significant digestive disruption even in it's more artificial incarnations.
 
 #### Why don't you review more drinks with artificial sweeteners?
 
-The answer is sometimes similar to my issue with cherries, sometimes an issue of preference, and sometimes an issue of availability. I have always intended to add a few more "diet" sodas and maybe someday a few more will appear but it is unlikely that they will ever be anything like a majority here. That said the drinks I sample do not have to have any sweetener at all and there are quite a few with little to no sugar that I have rated quite highly over the years.
+The answer is sometimes similar to my issue with cherries, sometimes an issue of preference, and sometimes an issue of availability. I have always intended to add a few more "diet" sodas and maybe someday a few more will appear but it is unlikely that they will ever be anything like a majority. That said the drinks I sample do not have to have any sweetener at all and there are quite a few with little to no sugar that I have rated quite highly over the years.

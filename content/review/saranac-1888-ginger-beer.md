@@ -2,7 +2,7 @@
 title: "Saranac 1888 Ginger Beer" # Title of the blog post.
 date: 2014-03-24T12:51:00-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
-#thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/saranac-1888-ginger-beer.jpg" # Sets thumbnail image appearing inside card on homepage.
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/saranac-1888-ginger-beer.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
 rating:
