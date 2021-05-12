@@ -10,6 +10,9 @@ rating:
 - Recommended
 tags:
 - Medium Sweet
+- Fruit
+- Lemon
+- Citrus
 brands:
 - Loux
 ---
