@@ -6,7 +6,7 @@ Param(
 )
 
 Begin {
-    $rootPath = "c:\Users\natha\OneDrive\Pictures\Soda\Processed"
+    $rootPath = "c:\Users\$env:USERNAME\OneDrive\Pictures\Soda\Processed"
     Write-Verbose "Root: $rootPath"
     $copyright = 'Copyright {0} Nathan Stohlmann, All Rights Reserved' -f ( Get-Date ).Year
     Write-Verbose "Copyright: $copyright"
