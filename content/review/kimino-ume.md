@@ -9,6 +9,8 @@ rating:
 - ok
 tags:
 - Slightly Sweet
+- fruit
+- juice
 brands:
 - Kimino
 ---
