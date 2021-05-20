@@ -1,7 +1,7 @@
 ---
 title: "Olipop Orange Cream" # Title of the blog post.
 date: 2021-05-14T13:59:09-05:00 # Date of post creation.
-featured: false # Sets if post is a featured post, making appear on the home page side bar.
+featured: true # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/olipop-orange-cream.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
