@@ -26,11 +26,11 @@ Another of the most common questions I get asked and another one I have a really
 I have definitely tried a few drinks that were well outside the white, suburban, upper-middle-class, American, Christian, etc set of normal experiences and palettes that I was raised with but that doesn't instrinsicly make any of them "weird". They are all just another opportunity to try something different and I personally feel that a breadth of experience is almost always better.
 
 #### Where do you find all of these drinks?
-15 years ago this was a much more common question and had a lot fewer answers. However since then the relative popularity of regional and small batch soft drinks has really exploded and places that carry them along with it. These days in the Twin Cities metro even at most super markets there will be a selection of at least 4 or 5 lesser known brands and several have full sections of shelf space in the "health food" or beverage sections devoted to a wide variety of soft drinks, sodas and otherwise. For example my local convenience store, [Tim and Tom's Speedy Mart](https://timandtomsspeedymarket.com), tends to stock at least 20 different interesting bottles at any given time.
+Around the turn of the century this was a much more common question and had a lot fewer answers. However since then the relative popularity of regional and small batch soft drinks has really exploded and places that carry them along with it. These days in the Twin Cities metro even at most super markets there will be a selection of at least 4 or 5 lesser known brands and several have full sections of shelf space in the "health food" or beverage sections devoted to a wide variety of soft drinks, sodas and otherwise. For example my local convenience store, [Tim and Tom's Speedy Mart](https://timandtomsspeedymarket.com), tends to stock at least 20 different interesting bottles at any given time.
 
 Here in the Twin Cities we are also fortunate to have two very good specialty retailers that carry hundreds and sometimes thousands of different bottles:
 - [Blue Sun Soda Shop](https://bluesunsodashop.com/) now has two locations and is probably the best source locally.
-- [Minnesota's Largest Candy Store](https://g.page/MinnesotasLargestCandyStore?share) is a really good second option and offers other things than soda for anyone else who might come along for the trip.
+- [Minnesota's Largest Candy Store](https://g.page/MinnesotasLargestCandyStore?share) is a really good second option and offers things other than soda for anyone else who might come along for the trip.
 
 I like to visit small specialty markets, expecially those that cater to cultures and cuisines that were not part of my upbringing, and often find really interesting things to try.
 
@@ -42,4 +42,4 @@ Natural cherry is one of my most favorite flavors but unfortunately it causes me
 
 #### Why don't you review more drinks with artificial sweeteners?
 
-The answer is sometimes similar to my issue with cherries, sometimes an issue of preference, and sometimes an issue of availability. I have always intended to add a few more "diet" sodas and maybe someday a few more will appear but it is unlikely that they will ever be anything like a majority. That said the drinks I sample do not have to have any sweetener at all and there are quite a few with little to no sugar that I have rated quite highly over the years.
+The answer is sometimes similar to my issue with cherries, sometimes an issue of preference, and sometimes an issue of availability. I have always intended to try a few more "diet" sodas. Maybe someday a few more will appear but it is unlikely that they will ever be anything like a majority. That said the drinks I sample do not have to have any sweetener at all and there are quite a few with little to no sugar that I have rated quite highly over the years.

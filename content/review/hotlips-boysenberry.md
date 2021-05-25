@@ -5,7 +5,7 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://pbs.twimg.com/media/BSDWBOLCEAEIZ_z?format=jpg&name=small" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
-rating:
+ratings:
 - Recommended
 tags:
 - Boysenberry

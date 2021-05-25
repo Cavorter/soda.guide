@@ -5,7 +5,7 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/shaka-guava-gingerblossom.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - tea
-rating:
+ratings:
 - Recommended
 tags:
 - Slightly Sweet

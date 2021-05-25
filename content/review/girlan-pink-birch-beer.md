@@ -5,7 +5,7 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://pbs.twimg.com/media/BRATAYLCYAE7GE8?format=jpg&name=medium" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
-rating:
+ratings:
 - ok
 tags:
 - SUGARBOMB

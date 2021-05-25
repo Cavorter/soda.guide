@@ -5,7 +5,7 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/mr-newport-lemon-lime.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
-rating:
+ratings:
 - ok
 tags:
 - Quite Sweet

@@ -5,7 +5,7 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/waterloo-grapefruit.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - water
-rating:
+ratings:
 - ok
 tags:
 - Not Sweet

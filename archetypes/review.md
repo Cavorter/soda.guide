@@ -8,7 +8,7 @@ categories:
 - water
 - kombucha
 - other
-rating:
+ratings:
 - pass
 - ok
 - Recommended

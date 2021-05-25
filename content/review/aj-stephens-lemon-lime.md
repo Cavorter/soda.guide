@@ -3,7 +3,7 @@ title: "Aj Stephens Lemon Lime" # Title of the blog post.
 date: 2009-06-17
 categories:
 - soda
-rating:
+ratings:
 - Recommended
 tags:
 - Quite Sweet

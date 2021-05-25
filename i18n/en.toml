@@ -34,14 +34,23 @@ other = "Categories"
 [tags]
 other = "Tags"
 
-[series]
-other = "Series"
+[ratings]
+other = "Ratings"
+
+[brands]
+other = "Brands"
 
 [all_categories]
 other = "All Categories"
 
 [all_tags]
 other = "All Tags"
+
+[all_ratings]
+other = "All Ratings"
+
+[all_brands]
+other = "All Brands"
 
 [all_series]
 other = "All Series"

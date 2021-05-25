@@ -19,9 +19,8 @@ DefaultContentLanguage = "en"
 
 [taxonomies]
 category = "categories"
-ratings = "ratings"
+rating = "ratings"
 brands = "brands"
-sweetness = "sweetness"
 tag = "tags"
 # series = "series"
 

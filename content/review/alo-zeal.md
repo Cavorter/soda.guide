@@ -5,7 +5,7 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://pbs.twimg.com/media/EeWVUB_XYAEyLVD?format=jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - water
-rating:
+ratings:
 - Recommended
 tags:
 - Medium Sweet

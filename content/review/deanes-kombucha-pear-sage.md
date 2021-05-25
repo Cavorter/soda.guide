@@ -5,7 +5,7 @@ featured: true # Sets if post is a featured post, making appear on the home page
 thumbnail: "https://pbs.twimg.com/media/EQgz9wyWkAEx-jI?format=jpg&name=large" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - kombucha
-rating:
+ratings:
 - Recommended
 tags:
 - Slightly Sweet

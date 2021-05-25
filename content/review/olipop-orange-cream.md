@@ -5,7 +5,7 @@ featured: true # Sets if post is a featured post, making appear on the home page
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/olipop-orange-cream.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
-rating:
+ratings:
 - Recommended
 tags:
 - Medium Sweet

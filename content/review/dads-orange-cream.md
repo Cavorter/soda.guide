@@ -5,7 +5,7 @@ featured_image:
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dads-orange-cream.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
-rating:
+ratings:
 - ok
 tags:
 - Very Sweet

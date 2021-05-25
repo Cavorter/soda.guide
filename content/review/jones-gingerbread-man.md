@@ -3,7 +3,7 @@ title: "Jones Soda Gingerbread Man" # Title of the blog post.
 date: 2007-12-01 # Date of post creation.
 categories:
 - soda
-rating:
+ratings:
 - ok
 tags:
 - Very Sweet
