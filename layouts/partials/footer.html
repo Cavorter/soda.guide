@@ -3,7 +3,7 @@
 {{- end }}
 <footer class="footer">
   <div class="footer_inner wrap pale">
-    <img src='{{ absURL "logos/bottle_logo_cropped.jpg" }}' class="icon icon_2 transparent">
+    <img src='{{ absURL "logos/bottle_logo_square.png" }}' class="icon icon_2 transparent">
     <p>{{ T "copyright" }} &copy;&nbsp;{{- if .Site.Params.since }}{{ .Site.Params.since }}&nbsp;-&nbsp;{{- end }}<span class="year">{{ now.Format "2006"}}</span>&nbsp;{{ upper .Site.Title }}. {{ T "all_rights" }}</p>
     {{- partial "top" .}}
   </div>
