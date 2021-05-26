@@ -1,0 +1,25 @@
+---
+title: "Iron Horse Root Beer"
+date: 2016-11-30
+featured: false
+draft: true
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/iron-horse-root-beer.jpg"
+categories:
+- soda
+- water
+- kombucha
+- other
+ratings:
+- ok
+tags:
+- Very Sweet
+brands:
+- Iron Horse
+---
+
+Very sweet. Decent blend of sarsaparilla and birch with significant molasses. Slightly sticky finish. OK.
+
+[Originally posted to Twitter.](https://twitter.com/Cavorter/status/804041968833753089)
+
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/iron-horse-root-beer.jpg" >}}
+

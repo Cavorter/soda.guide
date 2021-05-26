@@ -1,22 +1,25 @@
 ---
-title: "Moms Root Beer" # Title of the blog post.
-date: 2014-07-10T18:13:00-05:00 # Date of post creation.
-featured: false # Sets if post is a featured post, making appear on the home page side bar.
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/moms-root-beer.jpg" # Sets thumbnail image appearing inside card on homepage.
+title: "Mom's Root Beer"
+date: 2017-08-16
+featured: false
+draft: true
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/moms-root-beer.jpg"
 categories:
 - soda
+- water
+- kombucha
+- other
 ratings:
 - ok
 tags:
-- Medium Sweet
-- Root Beer
+- Very Sweet
 brands:
-- Moms
+- Mom's
 ---
 
-**NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
+Very sweet. Heavy wintergreen and vanilla with just detectable anise. Finishes fairly clean, still minty . Ok
 
-{{< tweet 487373974138281984 >}}
+[Originally posted to Twitter.](https://twitter.com/Cavorter/status/897883559809220609)
 
-Text:
-> Mom's Root Beer: Nice, if somewhat forgettable. Good finish, medium sweet. Local.
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/moms-root-beer.jpg" >}}
+

@@ -1,22 +1,25 @@
 ---
-title: "Dang! Root Beer" # Title of the blog post.
-date: 2013-08-23T13:32:00-05:00 # Date of post creation.
-featured: false # Sets if post is a featured post, making appear on the home page side bar.
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dang-root-beer.jpg" # Sets thumbnail image appearing inside card on homepage.
+title: "Dang! Root Beer"
+date: 2015-09-09
+featured: false
+draft: true
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dang-root-beer.jpg"
 categories:
 - soda
+- water
+- kombucha
+- other
 ratings:
 - ok
 tags:
-- SUGARBOMB
-- root beer
+- Very Sweet
 brands:
 - Dang!
 ---
 
-**NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
+Nice brown sugar and wintergreen in the start devolves to sticky long finish. Needs better sugar. OK
 
-{{< tweet 370976768582107136 >}}
+[Originally posted to Twitter.](https://twitter.com/Cavorter/status/641663791621521408)
 
-Text:
-> The only thing that keeps Dang! root beer from being a clear favorite is that it's a touch too sweet.
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/dang-root-beer.jpg" >}}
+
