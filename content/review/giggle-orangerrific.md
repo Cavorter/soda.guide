@@ -2,17 +2,17 @@
 title: "Giggle Orangerrific"
 date: 2017-04-07
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/giggle-orangerrific.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Citrus
+- Orange
+- Stevia
+- Erythritol
 brands:
 - Giggle
 ---

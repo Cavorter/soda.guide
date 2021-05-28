@@ -2,17 +2,16 @@
 title: "Zuberfizz Vanilla Cream"
 date: 2017-04-05
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/zuberfizz-vanilla-cream.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cream
+- Vanilla
+- Buttery
 brands:
 - Zuberfizz
 ---

@@ -6,13 +6,15 @@ draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/story-raspberry-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
+- Berry
+- Raspberry
 brands:
 - Story
 ---

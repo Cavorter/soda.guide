@@ -2,17 +2,17 @@
 title: "Giggle Lemonlicious"
 date: 2017-04-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/giggle-lemonlicious.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Lemon
+- Stevia
+- Erythritol
 brands:
 - Giggle
 ---

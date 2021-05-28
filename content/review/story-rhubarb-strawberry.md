@@ -2,17 +2,17 @@
 title: "Story Rhubarb & Strawberry"
 date: 2017-04-07
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/story-rhubarb-strawberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Fruit
+- Rhubarb
+- Berry
+- Strawberry
 brands:
 - Story
 ---
