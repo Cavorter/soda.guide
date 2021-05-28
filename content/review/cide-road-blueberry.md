@@ -2,17 +2,18 @@
 title: "Cide Road Blueberry"
 date: 2016-12-24
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/cide-road-blueberry.jpg"
 categories:
-- soda
-- water
-- kombucha
-- other
+- Other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Vinegar
+- Switchel
+- Fruit
+- Berry
+- Blueberry
 brands:
 - Cide Road
 ---
