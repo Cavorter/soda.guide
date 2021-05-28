@@ -21,4 +21,6 @@ brands:
 
 Slightly sweet. Floral citrus start with an subtle earthy middle that gradually fades to a nice blended finish with a hint of umami. Recommended.
 
+Received from [Try The World Snack Box](https://trytheworld.com)
+
 {{< figure src="https://pbs.twimg.com/media/EexjYwZXgAAJjLv?format=jpg" >}}

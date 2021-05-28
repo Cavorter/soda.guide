@@ -21,4 +21,6 @@ brands:
 
 Medium sweet. Perfumey floral from intense start to lingering finish. Lightly tangy. Somewhat hard to distinguish between fruit and the generally pervading flower power. Ok.
 
+Received from [Try The World Snack Box](https://trytheworld.com)
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/blossom-pomegranate-geranium.jpg" >}}

@@ -19,4 +19,6 @@ brands:
 
 Slightly sweet. Intense fruit on the nose but subtle on the tongue to start followed by an extremely mild ginger prickle. Interesting umami undertones grow in the middle and last into the fairly pleasant finish. Apparently uses an herbal tea base from māmaki leaves ([Pipturus albidus](https://en.wikipedia.org/wiki/Pipturus_albidus)). Recommended.
 
+Received from [Try The World Snack Box](https://trytheworld.com)
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/shaka-guava-gingerblossom.jpg" >}}

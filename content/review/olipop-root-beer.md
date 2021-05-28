@@ -17,4 +17,6 @@ brands:
 
 Medium Sweet. The opening herbal notes open as it warms blooming into solid birch all the while surrounded by hints from the fairly novel sweetener mix. Both recognizable and also pretty different. Interestingly buttery but mostly clean finish. Ok.
 
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/olipop-root-beer.jpg" >}}

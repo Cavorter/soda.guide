@@ -21,4 +21,6 @@ brands:
 
 Medium sweet. A race at the start between slightly sharp orange and buttery tones from marshmallow in the sweetener are merged and blended as vanilla comes through in the middle. Herbal overtones can come across as chalky sometimes. Recommended.
 
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/olipop-orange-cream.jpg" >}}

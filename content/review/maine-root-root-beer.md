@@ -16,4 +16,6 @@ brands:
 
 Very Sweet. Intense wintergreen at the start but slowly softens to uncover a hints of burdock, clove, and nutmeg amid the more prominent vanilla and brown sugar. Nice finish. Recommended.
 
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/maine-root-root-beer.jpg" >}}

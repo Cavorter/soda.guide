@@ -18,4 +18,6 @@ brands:
 
 Very sweet. Classic "baby aspirin" flavor of either your dreams or nightmares. Briefly sharp orange flavor is nearly smothered by slightly chalky vanillin middle, but returning in the extended finish. Ok.
 
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/dads-orange-cream.jpg" >}}

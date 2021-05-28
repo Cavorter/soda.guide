@@ -21,4 +21,6 @@ brands:
 
 Medium sweet. Extremely mild tingle along with fresh ginger flavor that blends very well with extremely subtle citrus tones that are present. A slightly complicated sparkling ginger lemonade. Ok.
 
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/olipop-ginger-lemon.jpg" >}}
