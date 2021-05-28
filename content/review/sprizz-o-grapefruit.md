@@ -2,17 +2,15 @@
 title: "Sprizz-O Grapefruit"
 date: 2017-01-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/sprizz-o-grapefruit.jpg"
 categories:
-- soda
 - water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Not Sweet
+- Citrus
+- Grapefruit
 brands:
 - Sprizz-O
 ---

@@ -2,17 +2,18 @@
 title: "Boots Lemon Meringue"
 date: 2017-02-17
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boots-lemon-meringue.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
+- Cream
+- Vanilla
 brands:
 - Boots
 ---

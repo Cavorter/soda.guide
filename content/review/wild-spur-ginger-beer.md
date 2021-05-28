@@ -2,17 +2,15 @@
 title: "Wild Spur Ginger Beer"
 date: 2017-01-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/wild-spur-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Wild Spur
 ---

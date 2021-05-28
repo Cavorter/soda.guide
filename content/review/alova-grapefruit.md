@@ -2,17 +2,16 @@
 title: "Alova Grapefruit"
 date: 2017-01-09
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/alova-grapefruit.jpg"
 categories:
-- soda
 - water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Grapefruit
 brands:
 - Alova
 ---

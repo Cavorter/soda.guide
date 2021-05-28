@@ -2,17 +2,16 @@
 title: "Four Point Zero Green Apple"
 date: 2017-02-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/four-point-zero-green-apple.jpg"
 categories:
-- soda
 - water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Not Sweet
+- Floral
+- Fruit
+- Apple
 brands:
 - Four Point Zero
 ---
