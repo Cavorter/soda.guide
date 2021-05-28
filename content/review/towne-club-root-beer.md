@@ -2,17 +2,14 @@
 title: "Towne Club Root Beer"
 date: 2017-01-16
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/towne-club-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
 brands:
 - Towne Club
 ---

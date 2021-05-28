@@ -19,4 +19,6 @@ brands:
 
 Slightly sweet. Quite chunky. Simple and light with a light lemon flavor. Quite refreshing. Recommended.
 
+Received from [Try The World Snack Box](https://trytheworld.com)
+
 {{< figure src="https://pbs.twimg.com/media/Een-27_X0AY72EQ?format=jpg" >}}

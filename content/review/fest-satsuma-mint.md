@@ -2,17 +2,18 @@
 title: "Fest Satsuma Mint"
 date: 2017-02-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fest-satsuma-mint.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Satsuma
+- Mint
+- Spearmint
 brands:
 - Fest
 ---

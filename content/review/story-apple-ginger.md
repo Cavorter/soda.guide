@@ -2,17 +2,16 @@
 title: "Story Apple & Ginger"
 date: 2017-04-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/story-apple-ginger.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Apple
+- Ginger
 brands:
 - Story
 ---

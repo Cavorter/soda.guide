@@ -2,17 +2,16 @@
 title: "Reading Draft Creamy Red Birch"
 date: 2017-04-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/reading-draft-creamy-red-birch.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Root Beer
+- Birch Beer
+- Red Birch
 brands:
 - Reading Draft
 ---

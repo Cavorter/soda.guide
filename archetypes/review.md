@@ -25,4 +25,6 @@ brands:
 
 **Review text here**
 
+[Purchased from xxx](https://some.site)
+
 {{< figure src="{{ .Site.Params.image_root }}/review/{{ .Name }}.jpg" >}}

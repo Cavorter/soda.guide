@@ -16,4 +16,6 @@ brands:
 
 Very sweet. Classic cola flavor, more similar to RC than either of the other big brands. Starts big and slightly sharp, softens and warms in the middle, then transforms slowly into a pleasantly tangy end. Recommended.
 
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/triple-cola.jpg" >}}

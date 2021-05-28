@@ -2,17 +2,16 @@
 title: "Fizzy Lizzy Cranberry"
 date: 2017-01-25
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fizzy-lizzy-cranberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Fruit
+- Berry
+- Cranberry
 brands:
 - Fizzy Lizzy
 ---

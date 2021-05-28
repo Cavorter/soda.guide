@@ -2,17 +2,15 @@
 title: "Big Ben's Birch Beer"
 date: 2017-03-07
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/big-bens-birch-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Birch Beer
 brands:
 - Big Ben's
 ---

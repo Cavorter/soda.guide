@@ -20,4 +20,6 @@ brands:
 
 Medium sweet. Slight fire. Very pleasant ginger/lemon with hints of wood and grass. Moderately chunky with nice aloe niblets. Recommended.
 
+Received from [Try The World Snack Box](https://trytheworld.com)
+
 {{< figure src="https://pbs.twimg.com/media/EeWVUB_XYAEyLVD?format=jpg" >}}

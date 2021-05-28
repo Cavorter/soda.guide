@@ -25,4 +25,6 @@ The label reads:
 > Made in Japan  
 > Made for you
 
+Received from [Try The World Snack Box](https://trytheworld.com)
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/kimino-ume.jpg" >}}

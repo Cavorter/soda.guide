@@ -1,7 +1,7 @@
 ---
 title: "Flathead Lake Pomegranate Blueberry" # Title of the blog post.
 date: 2010-05-14
-thumbnail: "https://dn3pm25xmtlyu.cloudfront.net/photos/large/100434353.jpg?Expires=1609188026&Signature=bWCbOTrPgS8rnISdMaYuvR1SoI2SWlOwDLw66hcXBmi5bJuprYtAQ-3Vmei~4CbVzUxup21RkdqKzjgLPgbrDQHZnJQYeO5pQLdlyterOKMEfYQRL5xnPDCKUYiQbmek-AX-zSd953ROS-QumgTs-XY91bOAbyKxy9bobPAKqFQL785QUrHtx5wq2wm9CVD38uGkPrRoD-pyugVsqcJitP1ZWQSj4dPTTYY6LMLRSaSj3JSVz8HBayWMpmvfjQ34vzBcHImMIkdDrbRqlEe1QcdiXQP5hnoD1Sv8VdpkZU~h02D6gr-DCYLTSufhz03sfrd7aCOIgXUIqirHmvM6hw__&Key-Pair-Id=APKAJROXZ7FN26MABHYA" # Sets thumbnail image appearing inside card on homepage.
+# thumbnail: "" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
 tags:

@@ -17,4 +17,6 @@ brands:
 
 Medium sweet. Slightly tangy cola flavor sits beside the sweetener blend rather than integrating. Cola portion is nicely cinnamon heavy with some tea-like qualities. Short finish. Ok.
 
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
+
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/olipop-vintage-cola.jpg" >}}

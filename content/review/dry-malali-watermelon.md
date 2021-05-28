@@ -2,17 +2,16 @@
 title: "Dry Malali Watermelon"
 date: 2017-04-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dry-malali-watermelon.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Slightly Sweet
+- Fruit
+- Melon
+- Watermelon
 brands:
 - Dry
 ---

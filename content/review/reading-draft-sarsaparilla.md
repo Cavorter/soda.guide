@@ -2,17 +2,15 @@
 title: "Reading Draft Sarsaparilla"
 date: 2017-03-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/reading-draft-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Sarsaparilla
 brands:
 - Reading Draft
 ---

@@ -2,17 +2,16 @@
 title: "Filbert's Grapefruit"
 date: 2017-02-19
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/filberts-grapefruit.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Grapefruit
 brands:
 - Filbert's
 ---

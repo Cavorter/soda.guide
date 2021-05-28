@@ -2,17 +2,19 @@
 title: "Diablo Blueberry Lemonade"
 date: 2017-05-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/diablo-blueberry-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- fruit
+- berry
+- lemon
+- blueberry
+- Erythritol
+- Stevia
 brands:
 - Diablo
 ---

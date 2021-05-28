@@ -2,17 +2,15 @@
 title: "Wild Spur Sarsaparilla"
 date: 2017-02-22
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/wild-spur-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Root Beer
+- Sarsaparilla
 brands:
 - Wild Spur
 ---

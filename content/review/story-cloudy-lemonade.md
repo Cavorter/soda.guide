@@ -2,17 +2,15 @@
 title: "Story Cloudy Lemonade"
 date: 2017-03-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/story-cloudy-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Lemonade
 brands:
 - Story
 ---
