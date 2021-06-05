@@ -2,17 +2,14 @@
 title: "Lost Trail Root Beer"
 date: 2015-06-11
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/lost-trail-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
 brands:
 - Lost Trail
 ---

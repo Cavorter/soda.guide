@@ -14,7 +14,8 @@ ratings:
 tags:
 - Medium Sweet
 brands:
-- Mash by Boylan
+- Mash
+- Boylan
 ---
 
 Slightly sweet. Natural ginger start, mellow lemon follows. No fire. Sucralose end. OK

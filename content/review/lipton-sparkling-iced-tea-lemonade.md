@@ -2,19 +2,18 @@
 title: "Lipton Sparkling Iced Tea Lemonade"
 date: 2016-06-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/lipton-sparkling-iced-tea-lemonade.jpg"
 categories:
-- soda
-- water
-- kombucha
-- other
+- Tea
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Lemon
+- Tea
 brands:
-- Lipton Sparkling Iced Tea
+- Lipton
 ---
 
 Quite sweet. Light tea with fairly acidic lemon. Sticky-ish finish. Ok.

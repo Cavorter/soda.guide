@@ -2,17 +2,17 @@
 title: "Natural Brew Chai Cola"
 date: 2015-08-10
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/natural-brew-chai-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Cola
+- Chai
+- Tea
+- Spice
 brands:
 - Natural Brew
 ---

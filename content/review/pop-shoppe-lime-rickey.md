@@ -2,17 +2,16 @@
 title: "Pop Shoppe Lime Rickey"
 date: 2015-07-31
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/pop-shoppe-lime-rickey.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lime
 brands:
 - Pop Shoppe
 ---

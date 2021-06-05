@@ -2,17 +2,18 @@
 title: "Melba's Fixins Lemon Meringue Pie"
 date: 2015-07-31
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/melbas-fixins-lemon-meringue-pie.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
+- Vanilla
+- Cream
 brands:
 - Melba's Fixins
 ---

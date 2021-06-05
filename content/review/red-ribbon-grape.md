@@ -1,18 +1,16 @@
 ---
-title: "Red Ribbon Grape"
+title: "Red Ribbon Grape Supreme"
 date: 2016-01-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/red-ribbon-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Grape
 brands:
 - Red Ribbon
 ---

@@ -2,17 +2,16 @@
 title: "Q Orange"
 date: 2016-05-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/q-orange.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Orange
 brands:
 - Q
 ---

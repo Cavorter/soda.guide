@@ -2,17 +2,16 @@
 title: "Maine Root Pumpkin Pie"
 date: 2015-12-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/maine-root-pumpkin-pie.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Ginger
+- Spice
+- Pumpkin
 brands:
 - Maine Root
 ---

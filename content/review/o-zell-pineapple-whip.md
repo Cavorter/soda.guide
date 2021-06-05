@@ -2,17 +2,17 @@
 title: "O-Zell Pineapple Whip"
 date: 2016-07-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/o-zell-pineapple-whip.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Pineapple
+- Vanilla
+- Cream
 brands:
 - O-Zell
 ---

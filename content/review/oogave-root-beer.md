@@ -2,17 +2,16 @@
 title: "Oogave Root Beer"
 date: 2016-05-24
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oogave-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Agave
+- Root Beer
+- Sassafras
 brands:
 - Oogave
 ---

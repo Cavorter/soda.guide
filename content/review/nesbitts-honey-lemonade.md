@@ -2,17 +2,17 @@
 title: "Nesbitt's Honey Lemonade"
 date: 2016-01-25
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/nesbitts-honey-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Honey
+- Fruit
+- Citrus
+- Lemon
 brands:
 - Nesbitt's
 ---

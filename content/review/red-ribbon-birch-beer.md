@@ -2,17 +2,15 @@
 title: "Red Ribbon Birch Beer"
 date: 2015-12-31
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/red-ribbon-birch-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Root Beer
+- Birch Beer
 brands:
 - Red Ribbon
 ---

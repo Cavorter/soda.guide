@@ -2,17 +2,16 @@
 title: "Red Arrow Root Beer"
 date: 2016-10-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/red-arrow-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Root Beer
+- Vanilla
+- Caramel
 brands:
 - Red Arrow
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Materva Yerba Matte" # Title of the blog post.
+title: "Materva Yerba Mate" # Title of the blog post.
 date: 2014-07-11T18:55:18-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/materva-yerba-matte.jpg" # Sets thumbnail image appearing inside card on homepage.

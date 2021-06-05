@@ -2,17 +2,18 @@
 title: "Mr. Newport Lemon-Lime"
 date: 2016-03-01
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/mr-newport-lemon-lime.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
+- Lime
+- Lemon-Lime
 brands:
 - Mr. Newport
 ---

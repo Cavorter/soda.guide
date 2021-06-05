@@ -2,17 +2,14 @@
 title: "Rocky Mountain Root Beer"
 date: 2015-08-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/rocky-mountain-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Root Beer
 brands:
 - Rocky Mountain
 ---

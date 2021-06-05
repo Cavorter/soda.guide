@@ -2,17 +2,18 @@
 title: "Rocky Mountain Loveland Lemon-Limeade"
 date: 2016-03-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/rocky-mountain-loveland-lemon-limeade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
+- Lime
+- Lemon-Lime
 brands:
 - Rocky Mountain
 ---

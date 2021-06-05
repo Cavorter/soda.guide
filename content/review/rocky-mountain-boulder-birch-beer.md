@@ -2,17 +2,15 @@
 title: "Rocky Mountain Boulder Birch Beer"
 date: 2016-03-09
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/rocky-mountain-boulder-birch-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Birch Beer
+- Root Beer
 brands:
 - Rocky Mountain
 ---

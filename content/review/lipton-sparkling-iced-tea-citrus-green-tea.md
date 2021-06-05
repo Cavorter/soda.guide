@@ -2,19 +2,18 @@
 title: "Lipton Sparkling Iced Tea Citrus Green Tea"
 date: 2016-06-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/lipton-sparkling-iced-tea-citrus-green-tea.jpg"
 categories:
-- soda
-- water
-- kombucha
-- other
+- Tea
 ratings:
 - pass
 tags:
 - Very Sweet
+- Green Tea
+- Fruit
+- Citrus
 brands:
-- Lipton Sparkling Iced Tea
+- Lipton
 ---
 
 Very sweet. Earthy Sweetarts. Long finish trending to bitterness. Pass.

@@ -6,15 +6,14 @@ draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/mtn-dew-dewshine.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Medium Sweet
 brands:
 - Mtn Dew
+- Mountian Dew
+- Pepsi
 ---
 
 Low to med sweet. Strong citrus flavor start, odd chemical middle, finishes ok. Clean. Pass.

@@ -2,17 +2,15 @@
 title: "Reading Draft White Birch"
 date: 2015-11-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/reading-draft-white-birch.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Root Beer
+- Birch Beer
 brands:
 - Reading Draft
 ---

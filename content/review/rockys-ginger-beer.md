@@ -2,17 +2,15 @@
 title: "Rocky's Ginger Beer"
 date: 2016-09-12
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/rockys-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Rocky's
 ---

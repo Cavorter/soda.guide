@@ -2,17 +2,18 @@
 title: "New York Seltzer Lemon & Lime"
 date: 2015-12-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/new-york-seltzer-lemon-lime.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
+- Lime
+- Lemon-Lime
 brands:
 - New York Seltzer
 ---

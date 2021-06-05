@@ -2,17 +2,16 @@
 title: "New York Seltzer Blueberry"
 date: 2015-12-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/new-york-seltzer-blueberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Berry
+- Blueberry
 brands:
 - New York Seltzer
 ---

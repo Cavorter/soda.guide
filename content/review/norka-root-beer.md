@@ -2,17 +2,15 @@
 title: "Norka Root Beer"
 date: 2016-04-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/norka-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Root Beer
+- Vanilla
 brands:
 - Norka
 ---

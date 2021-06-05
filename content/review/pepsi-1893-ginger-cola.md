@@ -2,18 +2,17 @@
 title: "Pepsi 1893 Ginger Cola"
 date: 2016-06-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/pepsi-1893-ginger-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Cola
 brands:
+- 1893
 - Pepsi
 ---
 

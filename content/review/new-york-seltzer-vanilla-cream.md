@@ -2,17 +2,15 @@
 title: "New York Seltzer Vanilla Cream"
 date: 2015-12-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/new-york-seltzer-vanilla-cream.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Vanilla
+- Cream
 brands:
 - New York Seltzer
 ---

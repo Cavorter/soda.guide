@@ -2,17 +2,17 @@
 title: "Maine Root Ginger Man"
 date: 2015-12-23
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/maine-root-ginger-man.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Vanilla
+- Cream
+- Molasses
 brands:
 - Maine Root
 ---

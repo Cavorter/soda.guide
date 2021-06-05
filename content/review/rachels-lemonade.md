@@ -2,17 +2,17 @@
 title: "Rachel's Lemonade"
 date: 2016-05-16
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/rachels-lemonade.jpg"
 categories:
-- soda
-- water
-- kombucha
 - other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Fruit
+- Still
+- Citrus
+- Lemon
 brands:
 - Rachel's
 ---

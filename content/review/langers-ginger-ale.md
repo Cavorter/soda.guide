@@ -2,17 +2,15 @@
 title: "Langers Ginger Ale"
 date: 2016-04-06
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/langers-ginger-ale.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Ginger
+- Ginger Ale
 brands:
 - Langers
 ---

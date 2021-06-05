@@ -2,17 +2,15 @@
 title: "Pimento Spicy Ginger"
 date: 2015-02-23
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/pimento-spicy-ginger.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Pimento
 ---

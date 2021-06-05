@@ -1,5 +1,5 @@
 ---
-title: "Ngon Anise Cream Soda"
+title: "Ngon Bistro Anise Cream Soda"
 date: 2015-06-27
 featured: false
 draft: true
@@ -14,7 +14,7 @@ ratings:
 tags:
 - Very Sweet
 brands:
-- Ngon
+- Ngon Bistro
 ---
 
 Very sweet. Amazingly well balanced anise. Strong vanilla. Beautiful. Recommended.

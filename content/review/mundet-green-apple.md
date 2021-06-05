@@ -2,17 +2,15 @@
 title: "Mundet Green Apple"
 date: 2015-09-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/mundet-green-apple.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Apple
 brands:
 - Mundet
 ---

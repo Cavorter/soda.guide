@@ -2,17 +2,15 @@
 title: "Maine Root Mexicane Cola"
 date: 2016-01-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/maine-root-mexicane-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cola
+- Cinnamon
 brands:
 - Maine Root
 ---

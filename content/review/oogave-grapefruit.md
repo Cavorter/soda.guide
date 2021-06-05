@@ -2,17 +2,17 @@
 title: "Oogave Grapefruit"
 date: 2016-06-11
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oogave-grapefruit.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Agave
+- Fruit
+- Citrus
+- Grapefruit
 brands:
 - Oogave
 ---

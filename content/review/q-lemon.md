@@ -2,17 +2,16 @@
 title: "Q Lemon"
 date: 2016-06-01
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/q-lemon.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
 - Q
 ---

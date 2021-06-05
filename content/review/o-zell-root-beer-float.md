@@ -2,17 +2,17 @@
 title: "O-Zell Root Beer Float"
 date: 2016-04-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/o-zell-root-beer-float.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Root Beer
+- Herbal
+- Sassafras
+- Vanilla
 brands:
 - O-Zell
 ---

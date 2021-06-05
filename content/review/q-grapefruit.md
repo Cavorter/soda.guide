@@ -2,17 +2,16 @@
 title: "Q Grapefruit"
 date: 2016-06-10
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/q-grapefruit.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Grapefruit
 brands:
 - Q
 ---

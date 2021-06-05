@@ -2,17 +2,18 @@
 title: "River City Blueberry Lemonade"
 date: 2015-12-10
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/river-city-blueberry-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
+- Berry
+- Blueberry
 brands:
 - River City
 ---

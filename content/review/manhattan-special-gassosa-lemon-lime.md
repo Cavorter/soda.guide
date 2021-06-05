@@ -2,17 +2,18 @@
 title: "Manhattan Special Gassosa Lemon/Lime"
 date: 2016-04-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/manhattan-special-gassosa-lemon-lime.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Fruit
+- Citrus
+- Lemon
+- Lime
+- Lemon-Lime
 brands:
 - Manhattan Special
 ---
