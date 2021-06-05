@@ -2,17 +2,16 @@
 title: "Gamer Orange"
 date: 2015-06-17
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/gamer-orange.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Orange
 brands:
 - Gamer
 ---

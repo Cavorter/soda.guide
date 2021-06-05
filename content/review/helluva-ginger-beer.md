@@ -2,17 +2,16 @@
 title: "Helluva Ginger Beer"
 date: 2016-04-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/helluva-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Ginger Beer
+- Caramel
 brands:
 - Helluva
 ---

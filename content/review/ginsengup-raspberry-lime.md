@@ -2,17 +2,18 @@
 title: "GinsengUp Raspberry Lime"
 date: 2016-04-22
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/ginsengup-raspberry-lime.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Berry
+- Raspberry
+- Citrus
+- Lime
 brands:
 - GinsengUp
 ---

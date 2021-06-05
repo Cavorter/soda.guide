@@ -2,17 +2,14 @@
 title: "Fest Bourbon Cream"
 date: 2016-09-02
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fest-bourbon-cream.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Vanilla
 brands:
 - Fest
 ---

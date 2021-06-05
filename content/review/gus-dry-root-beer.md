@@ -2,17 +2,14 @@
 title: "GUS Dry Root Beer"
 date: 2015-07-10
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/gus-dry-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Not Sweet
+- Root Beer
 brands:
 - GUS
 ---

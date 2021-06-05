@@ -2,17 +2,16 @@
 title: "Fest Pecan Root Beer"
 date: 2016-08-23
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fest-pecan-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Cream
+- Vanilla
 brands:
 - Fest
 ---

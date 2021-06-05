@@ -2,17 +2,16 @@
 title: "Faygo Orange"
 date: 2016-07-31
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/faygo-orange.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Cirus
+- Orange
 brands:
 - Faygo
 ---

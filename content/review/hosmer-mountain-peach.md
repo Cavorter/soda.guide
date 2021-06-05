@@ -2,17 +2,15 @@
 title: "Hosmer Mountain Peach"
 date: 2016-04-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/hosmer-mountain-peach.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Peach
 brands:
 - Hosmer Mountain
 ---

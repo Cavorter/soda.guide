@@ -2,17 +2,15 @@
 title: "Gross Gus's Dragon Drool"
 date: 2015-07-21
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/gross-guss-dragon-drool.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - SUGARBOMB
+- Anise
+- Licorice
 brands:
 - Gross Gus's
 ---

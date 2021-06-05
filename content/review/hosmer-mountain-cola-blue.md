@@ -2,17 +2,14 @@
 title: "Hosmer Mountain Cola-Blue"
 date: 2016-02-25
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/hosmer-mountain-cola-blue.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Quite Sweet
+- Cola
 brands:
 - Hosmer Mountain
 ---

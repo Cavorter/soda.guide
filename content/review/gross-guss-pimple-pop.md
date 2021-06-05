@@ -2,17 +2,15 @@
 title: "Gross Gus's Pimple Pop"
 date: 2015-06-22
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/gross-guss-pimple-pop.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - SUGARBOMB
+- Vanilla
+- Cream
 brands:
 - Gross Gus's
 ---

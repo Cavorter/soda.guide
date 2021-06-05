@@ -2,17 +2,16 @@
 title: "Filbert's Red Raspberry"
 date: 2015-08-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/filberts-red-raspberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Fruit
+- Berry
+- Raspberry
 brands:
 - Filbert's
 ---

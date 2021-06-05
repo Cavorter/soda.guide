@@ -2,17 +2,15 @@
 title: "Hosmer Mountain Sarsaparilla"
 date: 2015-07-30
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/hosmer-mountain-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Sarsaparilla
+- Root Beer
 brands:
 - Hosmer Mountain
 ---

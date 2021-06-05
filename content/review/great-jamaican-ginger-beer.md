@@ -2,17 +2,15 @@
 title: "Great Jamaican Ginger Beer"
 date: 2016-06-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/great-jamaican-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Great Jamaican
 ---

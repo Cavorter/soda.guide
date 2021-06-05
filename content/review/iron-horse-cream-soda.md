@@ -2,17 +2,18 @@
 title: "Iron Horse Cream Soda"
 date: 2016-11-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/iron-horse-cream-soda.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cream
+- Vanilla
+- Caramel
+- Coconut
+- Butter
 brands:
 - Iron Horse
 ---

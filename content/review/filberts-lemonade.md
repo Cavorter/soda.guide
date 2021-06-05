@@ -2,17 +2,16 @@
 title: "Filbert's Lemonade"
 date: 2015-07-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/filberts-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
 - Filbert's
 ---

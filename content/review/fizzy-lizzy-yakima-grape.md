@@ -2,17 +2,15 @@
 title: "Fizzy Lizzy Yakima Grape"
 date: 2015-12-21
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fizzy-lizzy-yakima-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Grape
 brands:
 - Fizzy Lizzy
 ---

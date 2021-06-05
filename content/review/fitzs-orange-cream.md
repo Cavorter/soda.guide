@@ -2,17 +2,18 @@
 title: "Fitz's Orange Cream"
 date: 2016-02-12
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fitzs-orange-cream.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Orange
+- Cream
+- Vanilla
 brands:
 - Fitz's
 ---

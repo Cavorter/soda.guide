@@ -2,17 +2,16 @@
 title: "Iron Horse Root Beer"
 date: 2016-11-30
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/iron-horse-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Sarsaparilla
+- Molasses
 brands:
 - Iron Horse
 ---

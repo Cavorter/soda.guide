@@ -2,17 +2,16 @@
 title: "GuS Dry Meyer Lemon"
 date: 2015-08-24
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/gus-dry-meyer-lemon.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
 - GuS
 ---

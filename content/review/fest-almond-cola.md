@@ -2,17 +2,16 @@
 title: "Fest Almond Cola"
 date: 2016-05-16
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fest-almond-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cola
+- Cherry
+- Cinnamon
 brands:
 - Fest
 ---

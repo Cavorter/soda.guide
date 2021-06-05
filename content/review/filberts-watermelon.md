@@ -2,17 +2,16 @@
 title: "Filbert's Watermelon"
 date: 2015-03-09
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/filberts-watermelon.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - SUGARBOMB
+- Fruit
+- Melon
+- Watermelon
 brands:
 - Filbert's
 ---

@@ -2,17 +2,14 @@
 title: "Gray's Root Beer"
 date: 2016-11-01
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/grays-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Root Beer
 brands:
 - Gray's
 ---

@@ -2,17 +2,17 @@
 title: "Fitz's Coffee Cola"
 date: 2016-02-17
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fitzs-coffee-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cola
+- Coffee
+- Cherry
+- Caramel
 brands:
 - Fitz's
 ---

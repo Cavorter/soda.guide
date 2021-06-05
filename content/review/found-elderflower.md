@@ -2,17 +2,15 @@
 title: "Found Elderflower"
 date: 2015-12-02
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/found-elderflower.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Slightly Sweet
+- Apple
+- Elderflower
 brands:
 - Found
 ---

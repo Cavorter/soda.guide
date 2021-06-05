@@ -2,13 +2,9 @@
 title: "Foxon Park Iron Brew"
 date: 2015-08-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/foxon-park-iron-brew.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:

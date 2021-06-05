@@ -2,17 +2,14 @@
 title: "Hosmer Mountain Cola-Red"
 date: 2016-04-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/hosmer-mountain-cola-red.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Cola
 brands:
 - Hosmer Mountain
 ---

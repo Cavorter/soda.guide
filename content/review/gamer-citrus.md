@@ -2,17 +2,16 @@
 title: "Gamer Citrus"
 date: 2015-06-30
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/gamer-citrus.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Fruit
+- Citrus
+- Lime
 brands:
 - Gamer
 ---

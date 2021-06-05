@@ -2,17 +2,15 @@
 title: "Fitz's Grape"
 date: 2016-02-16
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fitzs-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Grape
 brands:
 - Fitz's
 ---
