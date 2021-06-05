@@ -1,5 +1,5 @@
 ---
-title: "Blue Sun Kiddie Cocktail Margarita" # Title of the blog post.
+title: "Blue Sun Kiddie Cocktails Margarita" # Title of the blog post.
 date: 2021-06-04T20:09:09-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kiddie-cocktails-margarita.jpg" # Sets thumbnail image appearing inside card on homepage.
@@ -9,6 +9,9 @@ ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lime
 brands:
 - Blue Sun
 ---
