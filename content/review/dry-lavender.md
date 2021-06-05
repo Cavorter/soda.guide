@@ -2,17 +2,15 @@
 title: "Dry Lavender"
 date: 2016-01-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dry-lavender.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Lavender
+- Floral
 brands:
 - Dry
 ---

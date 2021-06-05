@@ -2,17 +2,15 @@
 title: "Cripple Creek Brewing Dream Lode Golden Ginger Ale"
 date: 2016-04-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/cripple-creek-brewing-dream-lode-golden-ginger-ale.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Ginger Ale
 brands:
 - Cripple Creek Brewing
 ---

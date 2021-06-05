@@ -2,17 +2,16 @@
 title: "Bulldog Root Beer"
 date: 2015-08-22
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bulldog-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Root Beer
+- Honey
+- Anise
 brands:
 - Bulldog
 ---

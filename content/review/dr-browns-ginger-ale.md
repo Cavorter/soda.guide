@@ -2,17 +2,15 @@
 title: "Dr. Brown's Ginger Ale"
 date: 2016-06-13
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dr-browns-ginger-ale.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Dr. Brown's
 ---

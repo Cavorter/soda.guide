@@ -2,17 +2,16 @@
 title: "Big Ben's Root Beer"
 date: 2016-10-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/big-bens-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Root Beer
+- Floral
+- Vanilla
 brands:
 - Big Ben's
 ---

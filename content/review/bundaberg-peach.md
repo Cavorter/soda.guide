@@ -2,17 +2,15 @@
 title: "Bundaberg Peach"
 date: 2016-05-09
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bundaberg-peach.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Fruit
+- Peach
 brands:
 - Bundaberg
 ---

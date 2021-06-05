@@ -2,17 +2,15 @@
 title: "Buddy's Grape"
 date: 2015-07-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/buddys-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
-- pass
+- Recommended
 tags:
 - Very Sweet
+- Fruit
+- Grape
 brands:
 - Buddy's
 ---

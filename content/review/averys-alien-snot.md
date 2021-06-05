@@ -2,13 +2,9 @@
 title: "Avery's Alien Snot"
 date: 2016-02-09
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-alien-snot.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:

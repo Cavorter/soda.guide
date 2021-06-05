@@ -2,17 +2,15 @@
 title: "Bickford's Sarsaparilla"
 date: 2016-04-07
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bickfords-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Root Beer
+- Anise
 brands:
 - Bickford's
 ---

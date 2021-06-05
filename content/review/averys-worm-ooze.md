@@ -2,17 +2,15 @@
 title: "Avery's Worm Ooze"
 date: 2016-02-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-worm-ooze.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
 brands:
 - Avery's
 ---

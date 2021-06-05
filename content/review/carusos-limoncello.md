@@ -2,17 +2,16 @@
 title: "Caruso's Limoncello"
 date: 2015-07-13
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/carusos-limoncello.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
 - Caruso's
 ---

@@ -2,17 +2,15 @@
 title: "Bottle Green Elderflower"
 date: 2016-04-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bottle-green-elderflower.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Floral
+- Elderflower
 brands:
 - Bottle Green
 ---

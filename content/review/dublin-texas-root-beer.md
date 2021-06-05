@@ -2,17 +2,16 @@
 title: "Dublin Texas Root Beer"
 date: 2016-03-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dublin-texas-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Anise
+- Sarsaparilla
 brands:
 - Dublin
 ---

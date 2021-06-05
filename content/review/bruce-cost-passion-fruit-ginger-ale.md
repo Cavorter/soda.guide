@@ -2,17 +2,17 @@
 title: "Bruce Cost Passion Fruit Ginger Ale"
 date: 2015-07-22
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bruce-cost-passion-fruit-ginger-ale.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Ginger
+- Ginger Beer
+- Fruit
+- Passion Fruit
 brands:
 - Bruce Cost
 ---

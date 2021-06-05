@@ -2,17 +2,14 @@
 title: "Boots Red Hot"
 date: 2016-11-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boots-red-hot.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Cinnamon
 brands:
 - Boots
 ---

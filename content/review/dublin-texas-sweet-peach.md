@@ -2,17 +2,15 @@
 title: "Dublin Texas Sweet Peach"
 date: 2016-03-16
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dublin-texas-sweet-peach.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - SUGARBOMB
+- Fruit
+- Peach
 brands:
 - Dublin
 ---

@@ -2,17 +2,15 @@
 title: "Bottle Green Ginger & Lemongrass"
 date: 2016-04-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bottle-green-ginger-lemongrass.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Citrus
+- Ginger
 brands:
 - Bottle Green
 ---

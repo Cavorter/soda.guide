@@ -2,17 +2,17 @@
 title: "Cool Mountain Root Beer"
 date: 2016-03-23
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/cool-mountain-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Vanilla
+- Sassafras
+- Anise
 brands:
 - Cool Mountain
 ---

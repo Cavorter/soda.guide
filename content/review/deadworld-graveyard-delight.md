@@ -2,17 +2,15 @@
 title: "Deadworld Graveyard Delight"
 date: 2015-09-21
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/deadworld-graveyard-delight.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Lemon-Lime
 brands:
 - Deadworld
 ---

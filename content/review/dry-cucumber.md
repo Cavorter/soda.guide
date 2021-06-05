@@ -2,17 +2,14 @@
 title: "Dry Cucumber"
 date: 2016-10-05
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dry-cucumber.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Cucumber
 brands:
 - Dry
 ---

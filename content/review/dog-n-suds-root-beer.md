@@ -2,17 +2,16 @@
 title: "Dog n Suds Root Beer"
 date: 2016-08-26
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dog-n-suds-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Root Beer
+- Vanilla
+- Anise
 brands:
 - Dog n Suds
 ---

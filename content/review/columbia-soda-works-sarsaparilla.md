@@ -2,17 +2,17 @@
 title: "Columbia Soda Works Sarsaparilla"
 date: 2016-05-05
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/columbia-soda-works-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Root Beer
+- Sarsaparilla
+- Molasses
+- Anise
 brands:
 - Columbia Soda Works
 ---

@@ -2,17 +2,16 @@
 title: "Alova Cucumber Mint"
 date: 2016-02-24
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/alova-cucumber-mint.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
-- Medium Sweet
+- Slightly Sweet
+- Cucumber
+- Mint
+- Spearmint
 brands:
 - Alova
 ---

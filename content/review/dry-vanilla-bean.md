@@ -2,17 +2,14 @@
 title: "DRY Vanilla Bean"
 date: 2015-07-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dry-vanilla-bean.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
-- pass
+- Recommended
 tags:
 - Not Sweet
+- Vanilla
 brands:
 - DRY
 ---

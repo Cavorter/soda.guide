@@ -2,17 +2,15 @@
 title: "Bickford's Ginger Beer"
 date: 2016-04-13
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bickfords-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Bickford's
 ---

@@ -2,13 +2,9 @@
 title: "Avery's Swamp Juice"
 date: 2016-02-05
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-swamp-juice.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:

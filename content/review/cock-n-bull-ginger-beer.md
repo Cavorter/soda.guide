@@ -2,17 +2,15 @@
 title: "Cock 'n Bull Ginger Beer"
 date: 2015-03-13
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/cock-n-bull-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Cock 'n Bull
 ---

@@ -2,17 +2,16 @@
 title: "Avery's Pumpkin Pie"
 date: 2015-12-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-pumpkin-pie.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Pumpkin
+- Pie
+- Holiday
 brands:
 - Avery's
 ---

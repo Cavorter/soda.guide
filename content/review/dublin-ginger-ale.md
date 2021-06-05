@@ -2,17 +2,15 @@
 title: "Dublin Ginger Ale"
 date: 2016-03-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dublin-ginger-ale.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Ginger Ale
 brands:
 - Dublin
 ---

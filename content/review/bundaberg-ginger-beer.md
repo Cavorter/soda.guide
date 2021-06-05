@@ -2,17 +2,15 @@
 title: "Bundaberg Ginger Beer"
 date: 2015-07-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bundaberg-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Bundaberg
 ---

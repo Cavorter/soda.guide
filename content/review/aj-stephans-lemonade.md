@@ -2,17 +2,16 @@
 title: "AJ Stephan's Lemonade"
 date: 2016-10-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/aj-stephans-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
 - AJ Stephan's
 ---

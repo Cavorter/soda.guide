@@ -2,17 +2,16 @@
 title: "Best Health's Raspberry"
 date: 2015-12-23
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/best-healths-raspberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Berry
+- Raspberry
 brands:
 - Best Health's
 ---

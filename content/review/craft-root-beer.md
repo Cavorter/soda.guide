@@ -2,17 +2,16 @@
 title: "Craft Root Beer"
 date: 2015-06-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/craft-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Root Beer
+- Anise
+- Nutmeg
 brands:
 - Craft
 ---

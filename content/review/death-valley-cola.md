@@ -2,17 +2,14 @@
 title: "Death Valley Cola"
 date: 2015-07-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/death-valley-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cola
 brands:
 - Death Valley
 ---

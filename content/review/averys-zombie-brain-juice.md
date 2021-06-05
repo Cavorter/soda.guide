@@ -2,17 +2,18 @@
 title: "Avery's Zombie Brain Juice"
 date: 2016-02-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-zombie-brain-juice.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Orange
+- Cream
+- Vanilla
 brands:
 - Avery's
 ---

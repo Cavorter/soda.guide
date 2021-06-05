@@ -2,17 +2,16 @@
 title: "Americana Huckleberry"
 date: 2015-10-06
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/americana-huckleberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
-- ok
+- Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Berry
+- Huckleberry
 brands:
 - Americana
 ---

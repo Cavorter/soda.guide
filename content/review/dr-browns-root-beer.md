@@ -2,17 +2,16 @@
 title: "Dr. Brown's Root Beer"
 date: 2016-04-21
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dr-browns-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Vanilla
+- Cinnamon
 brands:
 - Dr. Brown's
 ---

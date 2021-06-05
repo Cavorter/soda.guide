@@ -2,17 +2,15 @@
 title: "Bickford's Creamy"
 date: 2016-04-12
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bickfords-creamy.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Cream
+- Vanilla
 brands:
 - Bickford's
 ---

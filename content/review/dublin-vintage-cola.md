@@ -2,17 +2,15 @@
 title: "Dublin Vintage Cola"
 date: 2016-03-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dublin-vintage-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Cola
+- Herbal
 brands:
 - Dublin
 ---

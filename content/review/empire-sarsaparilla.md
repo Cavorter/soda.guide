@@ -2,17 +2,16 @@
 title: "Empire Sarsaparilla"
 date: 2016-03-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/empire-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Root Beer
+- Sarsaparilla
+- Anise
 brands:
 - Empire
 ---

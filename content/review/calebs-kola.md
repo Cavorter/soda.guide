@@ -2,17 +2,15 @@
 title: "Caleb's Kola"
 date: 2016-08-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/calebs-kola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Cola
+- Herbal
 brands:
 - Caleb's
 ---

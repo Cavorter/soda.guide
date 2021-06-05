@@ -2,17 +2,14 @@
 title: "Dang! Root Beer"
 date: 2015-09-09
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dang-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
 brands:
 - Dang!
 ---

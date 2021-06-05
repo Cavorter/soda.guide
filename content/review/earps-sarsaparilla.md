@@ -2,17 +2,16 @@
 title: "Earp's Sarsaparilla"
 date: 2015-07-06
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/earps-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Sassafras
+- Sarsaparilla
+- Anise
 brands:
 - Earp's
 ---

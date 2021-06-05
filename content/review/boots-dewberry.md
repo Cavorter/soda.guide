@@ -2,17 +2,18 @@
 title: "Boots Dewberry"
 date: 2016-10-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boots-dewberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Berry
+- Raspberry
+- Blueberry
+- Floral
 brands:
 - Boots
 ---

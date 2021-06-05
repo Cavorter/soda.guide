@@ -2,17 +2,16 @@
 title: "Craft Spicy Ginger Beer"
 date: 2016-01-09
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/craft-spicy-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Ginger Beer
+- Brown Sugar
 brands:
 - Craft
 ---

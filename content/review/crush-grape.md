@@ -2,17 +2,15 @@
 title: "Crush Grape"
 date: 2016-09-21
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/crush-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Fruit
+- Grape
 brands:
 - Crush
 ---

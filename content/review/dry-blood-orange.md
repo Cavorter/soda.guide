@@ -2,17 +2,17 @@
 title: "Dry Blood Orange"
 date: 2015-09-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dry-blood-orange.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Orange
+- Blood Orange
 brands:
 - Dry
 ---

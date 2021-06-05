@@ -2,17 +2,15 @@
 title: "Dry Fuji Apple"
 date: 2016-07-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dry-fuji-apple.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Fruit
+- Apple
 brands:
 - Dry
 ---
