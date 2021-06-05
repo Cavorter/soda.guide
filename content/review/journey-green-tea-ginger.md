@@ -2,17 +2,16 @@
 title: "Journey Green Tea Ginger"
 date: 2016-03-11
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/journey-green-tea-ginger.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Tea
+- Green Tea
+- Ginger
 brands:
 - Journey
 ---

@@ -2,17 +2,16 @@
 title: "Kutztown Sarsaparilla"
 date: 2016-07-25
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kutztown-sarsaparilla.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Sarsaparilla
+- Root Beer
+- Anise
 brands:
 - Kutztown
 ---

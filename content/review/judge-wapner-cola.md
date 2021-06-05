@@ -2,17 +2,14 @@
 title: "Judge Wapner Cola"
 date: 2015-06-12
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/judge-wapner-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Cola
 brands:
 - Judge Wapner
 ---

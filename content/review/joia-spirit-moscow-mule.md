@@ -15,6 +15,7 @@ tags:
 - Very Sweet
 brands:
 - Joia Spirit
+- Joia
 ---
 
 Very sweet. Clove prominent over muddled lime. Extended sticky finish. Ginger MIA. OK.

@@ -2,17 +2,17 @@
 title: "Jarritos Mandarin"
 date: 2016-09-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jarritos-mandarin.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Orange
+- Tangerine
 brands:
 - Jarritos
 ---

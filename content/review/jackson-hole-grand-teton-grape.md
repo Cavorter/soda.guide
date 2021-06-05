@@ -2,17 +2,15 @@
 title: "Jackson Hole Grand Teton Grape"
 date: 2015-07-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jackson-hole-grand-teton-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Fruit
+- Grape
 brands:
 - Jackson Hole
 ---

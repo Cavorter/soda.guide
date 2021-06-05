@@ -2,17 +2,16 @@
 title: "Kazouza Pink Grapefruit"
 date: 2016-04-05
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kazouza-pink-grapefruit.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Fruit
+- Grapefruit
+- Citrus
 brands:
 - Kazouza
 ---

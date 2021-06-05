@@ -2,17 +2,16 @@
 title: "Jarritos Lime"
 date: 2015-12-07
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jarritos-lime.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lime
 brands:
 - Jarritos
 ---

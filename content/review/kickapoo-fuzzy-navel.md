@@ -2,17 +2,16 @@
 title: "Kickapoo Fuzzy Navel"
 date: 2016-02-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kickapoo-fuzzy-navel.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Peach
+- Butter
 brands:
 - Kickapoo
 ---

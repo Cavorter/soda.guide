@@ -2,17 +2,17 @@
 title: "Joia Pineapple Coconut & Nutmeg"
 date: 2015-08-06
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/joia-pineapple-coconut-nutmeg.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Fruit
+- Pineapple
+- Coconut
+- Nutmeg
 brands:
 - Joia
 ---

@@ -2,17 +2,17 @@
 title: "Kutztown Root Beer"
 date: 2016-05-11
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kutztown-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Root Beer
+- Rose
+- Floral
+- Sarsaparilla
 brands:
 - Kutztown
 ---

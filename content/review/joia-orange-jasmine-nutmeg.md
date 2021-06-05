@@ -2,17 +2,19 @@
 title: "Joia Orange Jasmine & Nutmeg"
 date: 2015-08-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/joia-orange-jasmine-nutmeg.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Slightly Sweet
+- Fruit
+- Citrus
+- Orange
+- Jasmine
+- Nutmeg
+- Floral
 brands:
 - Joia
 ---

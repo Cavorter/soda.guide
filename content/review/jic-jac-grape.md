@@ -2,17 +2,15 @@
 title: "Jic Jac Grape"
 date: 2016-08-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jic-jac-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Fruit
+- Grape
 brands:
 - Jic Jac
 ---

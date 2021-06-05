@@ -2,17 +2,15 @@
 title: "Kazouza Apple"
 date: 2016-05-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kazouza-apple.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Fruit
+- Apple
 brands:
 - Kazouza
 ---

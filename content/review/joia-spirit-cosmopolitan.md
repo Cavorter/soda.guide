@@ -15,6 +15,7 @@ tags:
 - Quite Sweet
 brands:
 - Joia Spirit
+- Joia
 ---
 
 Quite sweet. Candied cranberry fades to citrus in extended finish. Unsubtle. Recommended.

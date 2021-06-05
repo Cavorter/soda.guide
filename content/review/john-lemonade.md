@@ -2,17 +2,16 @@
 title: "John Lemonade"
 date: 2016-05-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/john-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
 - John
 ---

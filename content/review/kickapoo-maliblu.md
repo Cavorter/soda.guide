@@ -2,17 +2,15 @@
 title: "Kickapoo Maliblu"
 date: 2016-02-19
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kickapoo-maliblu.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Coconut
+- Pineapple
 brands:
 - Kickapoo
 ---

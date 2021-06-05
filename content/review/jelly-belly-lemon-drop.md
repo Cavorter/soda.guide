@@ -2,17 +2,16 @@
 title: "Jelly Belly Lemon Drop"
 date: 2016-05-12
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jelly-belly-lemon-drop.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
 - Jelly Belly
 ---

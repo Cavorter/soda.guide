@@ -2,17 +2,15 @@
 title: "Jarritos Tamarind"
 date: 2016-01-24
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jarritos-tamarind.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Fruit
+- Tamarind
 brands:
 - Jarritos
 ---

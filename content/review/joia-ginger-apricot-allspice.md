@@ -2,17 +2,17 @@
 title: "Joia Ginger Apricot & Allspice"
 date: 2016-10-19
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/joia-ginger-apricot-allspice.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Ginger
+- Fruit
+- Apricot
+- Spice
 brands:
 - Joia
 ---

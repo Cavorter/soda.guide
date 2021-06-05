@@ -2,17 +2,18 @@
 title: "Kazouza Tamarind"
 date: 2015-12-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kazouza-tamarind.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Tamarind
+- Herbal
+- Floral
+- Rose
 brands:
 - Kazouza
 ---

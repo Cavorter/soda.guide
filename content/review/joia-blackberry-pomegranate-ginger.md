@@ -2,17 +2,20 @@
 title: "Joia Blackberry Pomegranate & Ginger"
 date: 2015-08-12
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/joia-blackberry-pomegranate-ginger.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Fruit
+- Berry
+- Blackberry
+- Pomegranate
+- Ginger
+- Floral
+- Rose
 brands:
 - Joia
 ---
