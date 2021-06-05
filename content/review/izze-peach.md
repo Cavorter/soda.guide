@@ -2,17 +2,15 @@
 title: "Izze Peach"
 date: 2016-12-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/izze-peach.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Peach
 brands:
 - Izze
 ---
