@@ -7,7 +7,6 @@ categories:
 - other
 ratings:
 - ok
-- Recommended
 tags:
 - Quite Sweet
 - Mocktail
@@ -22,7 +21,7 @@ brands:
 - Kul Mocks
 ---
 
-Quite sweet. Candy-like strawberry hits lightly first but is followed quickly by sharp lime before resurfacing in the middle where the flavors finally blend with the sweeteners and begin a very slow fade through the finish.
+Quite sweet. Candy-like strawberry hits lightly first but is followed quickly by sharp lime before resurfacing in the middle where the flavors finally blend with the sweeteners and begin a very slow fade through the finish. Ok.
 
 Purchased at [Stinson Wine, Beer and Spirits](https://www.stinsonwbs.com)
 
