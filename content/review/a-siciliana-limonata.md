@@ -1,20 +1,19 @@
 ---
-title: "A' Siciliana Limonata"
+title: "A'Siciliana Limonata"
 date: 2017-07-13
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/a-siciliana-limonata.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
 brands:
-- A' Siciliana
+- A'Siciliana
 ---
 
 Quite sweet. Intensely tart start, sweetens in the middle, then fades to lightly bitter finish. Unsubtle. Recommended

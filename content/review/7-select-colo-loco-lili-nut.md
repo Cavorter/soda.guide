@@ -2,7 +2,6 @@
 title: "7 Select Colo Loco Lili Nut"
 date: 2016-07-05
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/7-select-colo-loco-lili-nut.jpg"
 categories:
 - soda
@@ -15,6 +14,7 @@ tags:
 - floral
 brands:
 - 7 Select
+- Jones Soda
 ---
 
 Sugarbomb. Floral coconut very early into strong mixed tropical fruit. Slightly tart. OK

@@ -2,17 +2,14 @@
 title: "Abita Root Beer"
 date: 2015-08-17
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/abita-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Root Beer
 brands:
 - Abita
 ---

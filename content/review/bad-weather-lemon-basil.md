@@ -2,17 +2,18 @@
 title: "Bad Weather Lemon Basil"
 date: 2016-09-17
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bad-weather-lemon-basil.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
+- Herbal
+- Basil
 brands:
 - Bad Weather
 ---

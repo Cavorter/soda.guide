@@ -2,17 +2,15 @@
 title: "Avery's Melon"
 date: 2017-10-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-melon.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - SUGARBOMB
+- Fruit
+- Melon
 brands:
 - Avery's
 ---

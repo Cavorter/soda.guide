@@ -2,17 +2,17 @@
 title: "Avery's Kitty Piddle"
 date: 2015-10-21
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-kitty-piddle.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Orange
+- Pineapple
 brands:
 - Avery's
 ---

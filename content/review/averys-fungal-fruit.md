@@ -2,17 +2,17 @@
 title: "Avery's Fungal Fruit"
 date: 2015-10-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/averys-fungal-fruit.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Passion Fruit
+- Citrus
+- Lime
 brands:
 - Avery's
 ---

@@ -2,17 +2,15 @@
 title: "AJ Stephens Ginger Beer"
 date: 2015-02-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/aj-stephens-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Ginger
+- Ginger Beer
 brands:
 - AJ Stephens
 ---

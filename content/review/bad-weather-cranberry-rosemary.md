@@ -2,17 +2,18 @@
 title: "Bad Weather Cranberry Rosemary"
 date: 2015-11-21
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bad-weather-cranberry-rosemary.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Berry
+- Cranberry
+- Herbal
+- Rosemary
 brands:
 - Bad Weather
 ---

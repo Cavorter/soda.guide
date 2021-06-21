@@ -2,17 +2,14 @@
 title: "1919 Root Beer"
 date: 2015-08-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/1919-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Root Beer
 brands:
 - 1919
 ---
