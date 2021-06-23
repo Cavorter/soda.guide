@@ -2,7 +2,7 @@
 title: "Bavaria 0.0% Apple"
 date: 2016-01-30
 featured: false
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bavaria-00-apple.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bavaria-apple.jpg"
 categories:
 - other
 ratings:
@@ -21,5 +21,5 @@ Medium sweet. Cider-like with fine grained/intense bubbles modulates into slight
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/693534864729989120)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/bavaria-00-apple.jpg" >}}
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/bavaria-apple.jpg" >}}
 
