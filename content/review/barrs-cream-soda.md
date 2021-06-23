@@ -2,17 +2,18 @@
 title: "Barr's Cream Soda"
 date: 2015-11-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/barrs-cream-soda.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Vanilla
+- Cream Soda
+- Fruit
+- Coconut
+- Berry
 brands:
 - Barr's
 ---

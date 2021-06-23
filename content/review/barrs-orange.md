@@ -2,17 +2,16 @@
 title: "Barr's Orange"
 date: 2015-10-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/barrs-orange.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Orange
 brands:
 - Barr's
 ---

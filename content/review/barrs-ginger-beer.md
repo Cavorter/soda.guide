@@ -2,17 +2,15 @@
 title: "Barr's Ginger Beer"
 date: 2015-10-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/barrs-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Ginger Beer
 brands:
 - Barr's
 ---

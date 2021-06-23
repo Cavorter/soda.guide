@@ -2,17 +2,17 @@
 title: "Big Red Original"
 date: 2017-07-26
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/big-red-original.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Vanilla
+- Bubble Gum
+- Cream Soda
+- Red Pop
 brands:
 - Big Red
 ---
