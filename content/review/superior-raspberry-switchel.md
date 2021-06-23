@@ -1,7 +1,7 @@
 ---
 title: "Superior Raspberry Switchel" # Title of the blog post.
 date: 2021-06-21T14:27:47-05:00 # Date of post creation.
-featured: false # Sets if post is a featured post, making appear on the home page side bar.
+featured: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/superior-raspberry-switchel.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - other
