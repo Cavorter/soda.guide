@@ -6,11 +6,13 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jin
 categories:
 - soda
 ratings:
-- ok
 - Recommended
 tags:
 - Medium Sweet
-- Quite Sweet
+- Fruit
+- Mango
+- Floral
+- Hibiscus
 brands:
 - Jinx Tea
 ---
