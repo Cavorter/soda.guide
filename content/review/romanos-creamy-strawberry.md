@@ -9,6 +9,9 @@ ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Berry
+- Strawberry
 brands:
 - Romano's Italian Soda
 - Orca
