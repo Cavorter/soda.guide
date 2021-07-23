@@ -2,17 +2,15 @@
 title: "Carousel Peach"
 date: 2017-09-06
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/carousel-peach.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Quite Sweet
+- Fruit
+- Peach
 brands:
 - Carousel
 ---

@@ -1,25 +1,24 @@
 ---
-title: "China Cola Cola"
+title: "China Cola"
 date: 2016-06-05
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/china-cola-cola.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/china-cola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Cola
+- Herbal
+- Cinnamon
 brands:
 - China Cola
+- Reed's Inc.
 ---
 
 Very sweet. Complex and herbal with nice cinnamon overtones. Recommended.
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/739484527538536449)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/china-cola-cola.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/china-cola.jpg" >}}
