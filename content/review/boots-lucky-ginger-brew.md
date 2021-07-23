@@ -2,17 +2,14 @@
 title: "Boots Lucky Ginger Brew"
 date: 2017-09-13
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boots-lucky-ginger-brew.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
 brands:
 - Boots
 ---

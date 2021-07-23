@@ -2,17 +2,16 @@
 title: "Bootlegger's Kombucha Watermelon"
 date: 2017-07-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bootleggers-kombucha-watermelon.jpg"
 categories:
-- soda
-- water
 - kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Floral
+- Fruit
+- Melon
 brands:
 - Bootlegger's Kombucha
 ---

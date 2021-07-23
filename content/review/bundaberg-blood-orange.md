@@ -2,17 +2,18 @@
 title: "Bundaberg Blood Orange"
 date: 2015-09-16
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bundaberg-blood-orange.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Orange
+- Blood Orange
+- Grapefruit
 brands:
 - Bundaberg
 ---

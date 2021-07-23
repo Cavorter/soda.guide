@@ -2,18 +2,16 @@
 title: "Boylan's Birch Beer"
 date: 2017-05-31
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boylans-birch-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
 brands:
+- Boylan
 - Boylan's
 ---
 

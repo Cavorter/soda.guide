@@ -2,18 +2,16 @@
 title: "Boylan's Sparkling Cider"
 date: 2015-11-15
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boylans-sparkling-cider.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Apple
 brands:
+- Boylan
 - Boylan's
 ---
 

@@ -2,17 +2,16 @@
 title: "Bundaberg Root Beer"
 date: 2015-08-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bundaberg-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Root beer
+- Anise
+- Herbal
 brands:
 - Bundaberg
 ---

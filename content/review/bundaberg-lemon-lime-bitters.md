@@ -2,17 +2,19 @@
 title: "Bundaberg Lemon Lime & Bitters"
 date: 2015-08-20
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bundaberg-lemon-lime-bitters.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Fruit
+- Citrus
+- Lemon-Lime
+- Lemon
+- Lime
+- Herbal
 brands:
 - Bundaberg
 ---

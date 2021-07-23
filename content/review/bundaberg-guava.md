@@ -2,17 +2,15 @@
 title: "Bundaberg Guava"
 date: 2015-09-01
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bundaberg-guava.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Fruit
+- Guava
 brands:
 - Bundaberg
 ---

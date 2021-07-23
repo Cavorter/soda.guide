@@ -2,17 +2,17 @@
 title: "Bundaberg Spiced Ginger Beer"
 date: 2017-11-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bundaberg-spiced-ginger-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Ginger
+- Ginger Beer
+- Clove
+- Cinnamon
 brands:
 - Bundaberg
 ---

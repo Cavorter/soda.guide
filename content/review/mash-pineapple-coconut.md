@@ -14,8 +14,9 @@ tags:
 - pineapple
 - coconut
 brands:
-- Boylan
 - Mash
+- Boylan
+- Boylan's
 ---
 
 Very sweet. Strong pineapple with good tart tones and fragrant coconut. Starts like a good Piña Colada. Very long and, sadly, slightly rancid sucralose finish. Ok.
