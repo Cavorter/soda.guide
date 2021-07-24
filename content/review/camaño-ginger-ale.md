@@ -12,7 +12,7 @@ tags:
 - Ginger
 - Ginger Ale
 brands:
-- Camaño Bros.
+- Camaño Bros
 ---
 
 Very sweet. No fire. Citrus essence nearly eclipses natural ginger but some woody core is retained. OK.

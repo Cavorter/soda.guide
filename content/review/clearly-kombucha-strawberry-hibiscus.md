@@ -2,17 +2,18 @@
 title: "Clearly Kombucha Strawberry Hibiscus"
 date: 2017-07-10
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/clearly-kombucha-strawberry-hibiscus.jpg"
 categories:
-- soda
-- water
 - kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Fruit
+- Berry
+- Strawberry
+- Floral
+- Hibiscus
 brands:
 - Clearly Kombucha
 ---

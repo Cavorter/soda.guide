@@ -2,17 +2,14 @@
 title: "Crooked Oak Root Beer"
 date: 2016-05-22
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/crooked-oak-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Root Beer
 brands:
 - Crooked Oak
 ---

@@ -2,17 +2,17 @@
 title: "Clearly Kombucha Raspberry Ginger"
 date: 2017-07-02
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/clearly-kombucha-raspberry-ginger.jpg"
 categories:
-- soda
-- water
 - kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Fruit
+- Berry
+- Raspberry
+- Ginger
 brands:
 - Clearly Kombucha
 ---

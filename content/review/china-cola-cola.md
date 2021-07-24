@@ -14,7 +14,7 @@ tags:
 - Cinnamon
 brands:
 - China Cola
-- Reed's Inc.
+- Reed's Inc
 ---
 
 Very sweet. Complex and herbal with nice cinnamon overtones. Recommended.

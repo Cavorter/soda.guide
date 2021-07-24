@@ -15,7 +15,7 @@ tags:
 - Cola
 - Vanilla
 brands:
-- Camaño Bros.
+- Camaño Bros
 ---
 
 Very sweet. Caramel up front with nice herbal hints of ginger and cola. Short vanilla finish. Recommended.

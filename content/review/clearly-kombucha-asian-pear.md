@@ -2,17 +2,15 @@
 title: "Clearly Kombucha Asian Pear"
 date: 2017-07-01
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/clearly-kombucha-asian-pear.jpg"
 categories:
-- soda
-- water
 - kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Fruit
+- Pear
 brands:
 - Clearly Kombucha
 ---

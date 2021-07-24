@@ -2,17 +2,16 @@
 title: "Crush Orange"
 date: 2015-12-25
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/crush-orange.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Orange
 brands:
 - Crush
 ---

@@ -14,7 +14,7 @@ tags:
 - Ginger
 brands:
 - Red Ribbon
-- Natrona Bottling Co.
+- Natrona Bottling Co
 ---
 
 Very sweet. Huge and soft spearmint from the start through the medium length finish. The ginger very faintly hovers through it all as well, but more as a ghost of an extremely mild ginger ale or even lemon-lime tone than as anything even remotely substantial. Ok.

@@ -2,17 +2,16 @@
 title: "Clearly Kombucha Black Currant"
 date: 2017-06-27
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/clearly-kombucha-black-currant.jpg"
 categories:
-- soda
-- water
 - kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Slightly Sweet
+- Fruit
+- Currant
+- Black Currant
 brands:
 - Clearly Kombucha
 ---
