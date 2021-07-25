@@ -2,7 +2,6 @@
 title: "Borgnine's Coffee Soda"
 date: 2015-10-12
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/borgnines-coffee-soda.jpg"
 categories:
 - soda

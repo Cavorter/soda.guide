@@ -1,18 +1,17 @@
 ---
-title: "Deane's Kombucha Orange Hop Ginger"
+title: "Deane's Kombucha Orange, Hops, & Ginger"
 date: 2017-01-07
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/deanes-kombucha-orange-hop-ginger.jpg"
 categories:
-- soda
-- water
 - kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Vinegar
+- Ginger
+- Hops
 brands:
 - Deane's Kombucha
 ---

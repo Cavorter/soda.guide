@@ -2,17 +2,15 @@
 title: "Deadworld Morbid Mix"
 date: 2015-10-02
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/deadworld-morbid-mix.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Very Sweet
+- Fruit
+- Apple
 brands:
 - Deadworld
 ---

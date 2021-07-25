@@ -2,17 +2,16 @@
 title: "Deadworld Brain Sap"
 date: 2015-09-29
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/deadworld-brain-sap.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cream Soda
+- Vanilla
+- Caramel
 brands:
 - Deadworld
 ---

@@ -2,17 +2,14 @@
 title: "Deadworld Geek Juice"
 date: 2015-09-25
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/deadworld-geek-juice.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Vanilla
 brands:
 - Deadworld
 ---

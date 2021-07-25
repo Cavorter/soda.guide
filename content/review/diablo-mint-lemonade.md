@@ -1,18 +1,18 @@
 ---
-title: "Diablo Lemonade"
+title: "Diablo Mint Lemonade"
 date: 2017-05-16
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/diablo-lemonade.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/diablo-mint-lemonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Lemon
+- Mint
 brands:
 - Diablo
 ---
@@ -21,5 +21,5 @@ Quite sweet. Acidic start quickly gets to mellow mint with citrus foundation. Sl
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/864570141920645122)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/diablo-lemonade.jpg" >}}
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/diablo-mint-lemonade.jpg" >}}
 
