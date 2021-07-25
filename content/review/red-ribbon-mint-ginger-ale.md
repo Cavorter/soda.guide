@@ -19,6 +19,6 @@ brands:
 
 Very sweet. Huge and soft spearmint from the start through the medium length finish. The ginger very faintly hovers through it all as well, but more as a ghost of an extremely mild ginger ale or even lemon-lime tone than as anything even remotely substantial. Ok.
 
-Purchased from [Blue Sun Soda Shop(Spring Lake Park)](https://bluesunsodashop.com/)
+Purchased from [Blue Sun Soda Shop (Spring Lake Park)](https://bluesunsodashop.com/)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/red-ribbon-mint-ginger-ale.jpg" >}}
