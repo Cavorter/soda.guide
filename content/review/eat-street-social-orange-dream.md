@@ -2,17 +2,17 @@
 title: "Eat Street Social Orange Dream"
 date: 2016-05-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/eat-street-social-orange-dream.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Orange
+- Vanilla
 brands:
 - Eat Street Social
 ---

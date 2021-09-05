@@ -2,17 +2,16 @@
 title: "Empire Strawberry"
 date: 2015-11-14
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/empire-strawberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Berry
+- Strawberry
 brands:
 - Empire
 ---

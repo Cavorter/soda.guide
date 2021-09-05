@@ -2,7 +2,6 @@
 title: "Empire Banana"
 date: 2015-12-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/empire-banana.jpg"
 categories:
 - soda
