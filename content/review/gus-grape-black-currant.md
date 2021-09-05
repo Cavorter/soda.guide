@@ -2,17 +2,17 @@
 title: "GuS Grape Black Currant"
 date: 2017-10-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/gus-grape-black-currant.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Fruit
+- Grape
+- Currant
+- Black Currant
 brands:
 - GuS
 ---
