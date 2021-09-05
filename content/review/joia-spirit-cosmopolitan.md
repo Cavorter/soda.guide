@@ -2,17 +2,17 @@
 title: "Joia Spirit Cosmopolitan"
 date: 2016-09-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/joia-spirit-cosmopolitan.jpg"
 categories:
-- soda
-- water
-- kombucha
 - other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Alcoholic
+- Fruit
+- Berry
+- Cranberry
 brands:
 - Joia Spirit
 - Joia

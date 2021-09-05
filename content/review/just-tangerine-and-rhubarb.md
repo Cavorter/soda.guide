@@ -2,17 +2,18 @@
 title: "Just Tangerine and Rhubarb"
 date: 2017-09-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/just-tangerine-and-rhubarb.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Pear
+- Citrus
+- Lemon
+- Rhubarb
 brands:
 - Just
 ---
