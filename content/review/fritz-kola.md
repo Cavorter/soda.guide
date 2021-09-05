@@ -1,25 +1,22 @@
 ---
-title: "Friz-iimo Koffeinhaltige"
+title: "Fritz-Kola"
 date: 2016-02-23
 featured: false
 draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/friz-iimo-koffeinhaltige.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fritz-kola.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Cola
 brands:
-- Friz-iimo
+- Fritz-Kola
 ---
 
 Quite sweet. Classic cola start with bitter undertone. Interesting herbal middle. Ok.
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/702202162324103168)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/friz-iimo-koffeinhaltige.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/fritz-kola.jpg" >}}

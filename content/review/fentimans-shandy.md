@@ -2,17 +2,17 @@
 title: "Fentiman's Shandy"
 date: 2016-04-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fentimans-shandy.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Malt
+- Honey
 brands:
 - Fentiman's
 ---

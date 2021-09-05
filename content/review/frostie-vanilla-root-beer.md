@@ -2,17 +2,15 @@
 title: "Frostie Vanilla Root Beer"
 date: 2018-02-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/frostie-vanilla-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Vanilla
 brands:
 - Frostie
 ---
@@ -22,4 +20,3 @@ Very sweet. Strong wintergreen meets a rising wave of caramel that eventually cr
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/968920853999210496)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/frostie-vanilla-root-beer.jpg" >}}
-

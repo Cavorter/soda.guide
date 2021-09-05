@@ -2,17 +2,15 @@
 title: "Farmer's Brew Butterscotch Root Beer"
 date: 2017-11-03
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/farmers-brew-butterscotch-root-beer.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Butterscotch
 brands:
 - Farmer's Brew
 ---

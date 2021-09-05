@@ -1,25 +1,23 @@
 ---
-title: "Friz-iimo Orangenlimonade"
+title: "Fritz-Limo Orangenlimonade"
 date: 2015-12-03
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/friz-iimo-orangenlimonade.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fritz-limo-orangenlimonade.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Orange
 brands:
-- Friz-iimo
+- Fritz-Kola
 ---
 
 Medium sweet. Very full natural orange flavor with some tartness. Clean and simple. OK.
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/672587671428972544)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/friz-iimo-orangenlimonade.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/fritz-limo-orangenlimonade.jpg" >}}

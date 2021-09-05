@@ -2,19 +2,17 @@
 title: "Fidel Castro's Havana Banana"
 date: 2015-10-30
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fidel-castros-havana-banana.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - SUGARBOMB
+- Fruit
+- Banana
 brands:
-- Fidel Castro's
+- Rocket Fizz
 ---
 
 Sugarbomb. Slightly musty start to intense artificial banana. Prolonged finish. Pass.
@@ -22,4 +20,3 @@ Sugarbomb. Slightly musty start to intense artificial banana. Prolonged finish. 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/660176675775336448)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/fidel-castros-havana-banana.jpg" >}}
-
