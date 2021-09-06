@@ -2,17 +2,16 @@
 title: "Lungomare Mate & Mint"
 date: 2017-05-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/lungomare-mate-mint.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Tea
+- Mint
+- Spearmint
 brands:
 - Lungomare
 ---

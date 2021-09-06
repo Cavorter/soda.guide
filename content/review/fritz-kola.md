@@ -2,7 +2,6 @@
 title: "Fritz-Kola"
 date: 2016-02-23
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fritz-kola.jpg"
 categories:
 - soda

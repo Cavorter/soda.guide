@@ -2,17 +2,18 @@
 title: "Lemon Lemon Peach"
 date: 2017-05-18
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/lemon-lemon-peach.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
+- Peach
+- Stevia
 brands:
 - Lemon Lemon
 ---

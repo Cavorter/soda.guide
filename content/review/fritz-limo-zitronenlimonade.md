@@ -2,7 +2,6 @@
 title: "Fritz-Limo Zitronenlimonade"
 date: 2016-10-31
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fritz-limo-zitronenlimonade.jpg"
 categories:
 - soda

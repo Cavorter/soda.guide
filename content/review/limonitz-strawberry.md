@@ -2,17 +2,18 @@
 title: "Limonitz Strawberry Sparkling Lemonade"
 date: 2016-03-21
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/limonitz-strawberry-sparkling-lemonade.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/limonitz-strawberry.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon
+- Berry
+- Strawberry
 brands:
 - Limonitz
 ---
@@ -21,5 +22,4 @@ Very sweet. Very tart. Very acidic. Nice natural strawberry covers lemon. Some t
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/712049584873181184)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/limonitz-strawberry-sparkling-lemonade.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/limonitz-strawberry.jpg" >}}
