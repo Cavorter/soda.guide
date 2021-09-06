@@ -2,7 +2,6 @@
 title: "Live Kombucha Soda Living Limon"
 date: 2015-02-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/live-living-limon.jpg"
 categories:
 - kombucha

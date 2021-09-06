@@ -2,7 +2,6 @@
 title: "Martian Soda Kumquat"
 date: 2015-06-19
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/martian-soda.jpg"
 categories:
 - soda

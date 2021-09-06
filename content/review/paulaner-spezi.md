@@ -2,17 +2,16 @@
 title: "Paulaner Spezi"
 date: 2015-10-08
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/paulaner-spezi.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Citrus
+- Cola
 brands:
 - Paulaner
 ---
