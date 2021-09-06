@@ -2,17 +2,14 @@
 title: "Sky Valley Ginger Brew"
 date: 2016-10-04
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/sky-valley-ginger-brew.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Ginger
 brands:
 - Sky Valley
 ---

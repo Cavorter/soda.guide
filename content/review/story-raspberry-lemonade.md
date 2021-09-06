@@ -2,7 +2,6 @@
 title: "Story Raspberry Lemonade"
 date: 2017-03-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/story-raspberry-lemonade.jpg"
 categories:
 - soda
@@ -24,4 +23,3 @@ Quite sweet. Well balanced sweet and tart over juice base. Berry over lemon with
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/846775690221490178)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/story-raspberry-lemonade.jpg" >}}
-
