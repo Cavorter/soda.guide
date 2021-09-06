@@ -2,17 +2,18 @@
 title: "NessAlla Kombucha Raspberry"
 date: 2016-06-25
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/nessalla-kombucha-raspberry.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/nessalla-raspberry.jpg"
 categories:
-- soda
-- water
 - kombucha
-- other
 ratings:
 - Recommended
 tags:
 - Medium Sweet
+- Vinegar
+- Fruit
+- Berry
+- Raspberry
+- Bitters
 brands:
 - NessAlla Kombucha
 ---
@@ -21,5 +22,4 @@ Medium sweet. Complex mix of sweet raspberry, vinegar, and tannic bitters. Recom
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/746773216933388289)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/nessalla-kombucha-raspberry.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/nessalla-raspberry.jpg" >}}
