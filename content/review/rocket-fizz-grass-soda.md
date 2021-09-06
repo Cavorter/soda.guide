@@ -1,18 +1,17 @@
 ---
-title: "Rocket Fizz Grass Soda"
+title: "Grass Soda"
 date: 2016-11-17
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/rocket-fizz-grass-soda.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/grass.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - SUGARBOMB
+- Grass
+- Fruit
+- Pear
 brands:
 - Rocket Fizz
 ---
@@ -21,5 +20,4 @@ Sugarbomb. Strong pear base with some unidentifiable modifications to be grass f
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/799331621572935680)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/rocket-fizz-grass-soda.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/grass.jpg" >}}

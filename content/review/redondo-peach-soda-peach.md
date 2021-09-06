@@ -1,18 +1,16 @@
 ---
-title: "Redondo Peach Soda Peach"
+title: "Redondo Peach Soda"
 date: 2016-06-06
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/redondo-peach-soda-peach.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/redondo-peach.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Quite Sweet
+- Fruit
+- Peach
 brands:
 - Redondo Peach Soda
 ---
@@ -21,5 +19,4 @@ Quite sweet. Nearly natural flavor overshadowed by slight bitterness from the co
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/739952490720956416)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/redondo-peach-soda-peach.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/redondo-peach.jpg" >}}

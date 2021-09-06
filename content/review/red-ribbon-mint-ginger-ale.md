@@ -13,7 +13,7 @@ tags:
 - Spearmint
 - Ginger
 brands:
-- Red Ribbon
+- Red Ribbon Soda Works
 - Natrona Bottling Co
 ---
 

@@ -12,7 +12,7 @@ tags:
 - Root Beer
 - Birch Beer
 brands:
-- Red Ribbon
+- Red Ribbon Soda Works
 ---
 
 Very sweet. Fairly simple, very pure birch. Fairly sticky extended finish. Pass. 

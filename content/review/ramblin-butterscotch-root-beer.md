@@ -2,17 +2,15 @@
 title: "Ramblin' Butterscotch Root Beer"
 date: 2017-02-16
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/ramblin-butterscotch-root-beer.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/ramblin-root-beer-butterscotch.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Root Beer
+- Butterscotch
 brands:
 - Ramblin'
 ---
@@ -21,5 +19,4 @@ Very sweet. Vanilla and butterscotch start with mint undertones continues to com
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/832318065144643588)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/ramblin-butterscotch-root-beer.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/ramblin-root-beer-butterscotch.jpg" >}}
