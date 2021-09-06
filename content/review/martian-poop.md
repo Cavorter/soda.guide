@@ -2,17 +2,16 @@
 title: "Martian Poop Marionberry"
 date: 2015-07-28
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/martian-poop-marionberry.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/martian-poop.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - pass
 tags:
 - SUGARBOMB
+- Fruit
+- Berry
+- Marionberry
 brands:
 - Martian Poop
 ---
@@ -21,5 +20,4 @@ Sugarbomb. Tastes somewhat of weak artificial strawberry, rosewater, and bromine
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/626151429632167936)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/martian-poop-marionberry.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/martian-poop.jpg" >}}
