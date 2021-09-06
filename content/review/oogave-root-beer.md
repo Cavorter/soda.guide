@@ -1,5 +1,5 @@
 ---
-title: "Oogave Root Beer"
+title: "Oogavé Root Beer"
 date: 2016-05-24
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oogave-root-beer.jpg"
@@ -9,11 +9,11 @@ ratings:
 - ok
 tags:
 - Quite Sweet
-- Agave
+- Agavé
 - Root Beer
 - Sassafras
 brands:
-- Oogave
+- Oogavé
 ---
 
 Quite sweet. Muted sassafras gets entangled with a strange overstayed metallic overtone. Ok.

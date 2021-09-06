@@ -1,18 +1,20 @@
 ---
-title: "Orca Corn Squeezin'"
+title: "Corn Squeezin'"
 date: 2015-06-29
 featured: false
-draft: true
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/orca-corn-squeezin.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/corn-squeezin.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Fruit
+- Citrus
+- Lemon-Lime
+- Lime
+- Lemon
+- Grapefruit
 brands:
 - Orca
 ---
@@ -21,5 +23,4 @@ Very sweet. Lime heavy lemon-lime with a touch of grapefruit. Decent acid/sweet/
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/615595056154578944)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/orca-corn-squeezin.jpg" >}}
-
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/corn-squeezin.jpg" >}}

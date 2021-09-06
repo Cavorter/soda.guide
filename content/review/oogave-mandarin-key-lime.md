@@ -1,20 +1,23 @@
 ---
-title: "Oogave Mandarin Key Lime"
+title: "Oogavé Mandarin Key Lime"
 date: 2017-11-02
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oogave-mandarin-key-lime.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Medium Sweet
+- Fruit
+- Citrus
+- Orange
+- Mandarin Orange
+- Lime
+- Key Lime
+- Agavé
 brands:
-- Oogave
+- Oogavé
 ---
 
 Medium sweet. Immediate bright lime of the industrial cleaner variety. Orange MIA till end of very long finish. OK
@@ -22,4 +25,3 @@ Medium sweet. Immediate bright lime of the industrial cleaner variety. Orange MI
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/926162396808347649)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/oogave-mandarin-key-lime.jpg" >}}
-

@@ -2,17 +2,15 @@
 title: "Orca Pumpkin Spice Tonic"
 date: 2015-10-23
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/orca-pumpkin-spice-tonic.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Nutmeg
+- Vanilla
 brands:
 - Orca
 ---

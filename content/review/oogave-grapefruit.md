@@ -1,5 +1,5 @@
 ---
-title: "Oogave Grapefruit"
+title: "Oogavé Grapefruit"
 date: 2016-06-11
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oogave-grapefruit.jpg"
@@ -9,12 +9,12 @@ ratings:
 - ok
 tags:
 - Medium Sweet
-- Agave
+- Agavé
 - Fruit
 - Citrus
 - Grapefruit
 brands:
-- Oogave
+- Oogavé
 ---
 
 Medium sweet. Super light. More like grapefruit essence but has very slight bitterness. Ok
@@ -22,4 +22,3 @@ Medium sweet. Super light. More like grapefruit essence but has very slight bitt
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/741701502259986433)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/oogave-grapefruit.jpg" >}}
-
