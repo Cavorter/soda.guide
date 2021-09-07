@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/red
 categories:
 - soda
 ratings:
-- pass
+- Recommended
 tags:
 - Quite Sweet
 - Cola
@@ -19,4 +19,3 @@ Fairly sweet. Nice very slight tartness. Well rounded. Superb finish. Highly rec
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/593095743474376704)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/red-rock-premium-cola.jpg" >}}
-
