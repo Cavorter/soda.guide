@@ -12,6 +12,7 @@ tags:
 - Cinnamon
 brands:
 - Boots
+- Belville Bottling Works
 ---
 
 Very sweet. Cinnamon with a little heat surrounded by "candy"-like flavoring. Vanillin? Worse than it sounds. Pass.

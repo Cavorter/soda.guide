@@ -12,6 +12,7 @@ tags:
 - Ginger
 brands:
 - Boots
+- Belville Bottling Works
 ---
 
 Very sweet. Fiery! Sweet candied ginger start is quickly overcome with building fire. Citrus and wood finish. Ok.

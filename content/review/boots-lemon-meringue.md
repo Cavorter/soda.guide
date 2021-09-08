@@ -16,6 +16,7 @@ tags:
 - Vanilla
 brands:
 - Boots
+- Belville Bottling Works
 ---
 
 Very sweet. Powerful vanilla mostly occludes clear artificial lemon until middle. Finishes balanced though sticky. OK.

@@ -13,6 +13,7 @@ tags:
 - Vanilla
 brands:
 - Boots
+- Belville Bottling Works
 ---
 
 Very sweet. Somewhere between a cola and a cream soda. A solid and lightly tangy cola core is enveloped by deep and rich dark sugars with echoes of both tea and tamarind. Chocolate finish. Ok

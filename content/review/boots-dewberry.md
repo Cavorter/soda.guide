@@ -16,6 +16,7 @@ tags:
 - Floral
 brands:
 - Boots
+- Belville Bottling Works
 ---
 
 Very sweet. Slight tartness pleasantly blunts sugared raspberry/blackberry. Slightly floral. Too long grapey finish. OK.

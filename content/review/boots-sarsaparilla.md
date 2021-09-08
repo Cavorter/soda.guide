@@ -13,6 +13,7 @@ tags:
 - Sarsaparilla
 brands:
 - Boots
+- Belville Bottling Works
 ---
 
 Very sweet. Herbal and spiced start with heavy molasses degrades slightly to long candy finish. Ok.
