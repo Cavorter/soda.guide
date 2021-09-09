@@ -14,7 +14,7 @@ tags:
 - Raspberry
 - Huckleberry
 brands:
-- Dublin
+- Dublin Bottling Works
 ---
 
 Sugarbomb. Raspberry/huckleberry subsumed by intense sugar. Remarkably unsticky finish. OK.

@@ -12,7 +12,7 @@ tags:
 - Cola
 - Herbal
 brands:
-- Dublin
+- Dublin Bottling Works
 ---
 
 Quite sweet. Solid cola flavor in very classic style. Very few other herbal tones. Tannic. OK.

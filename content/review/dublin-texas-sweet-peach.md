@@ -12,7 +12,7 @@ tags:
 - Fruit
 - Peach
 brands:
-- Dublin
+- Dublin Bottling Works
 ---
 
 Sugarbomb. Nearly convincing artificial peach blunts slightly the sugar offensive. OK.

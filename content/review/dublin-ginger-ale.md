@@ -12,7 +12,7 @@ tags:
 - Ginger
 - Ginger Ale
 brands:
-- Dublin
+- Dublin Bottling Works
 ---
 
 Very sweet. No fire. Different than Canada Dry, but not very much. OK.

@@ -2,19 +2,20 @@
 title: "Theodore Roosevelt Presidential Cream Soda"
 date: 2016-07-28
 featured: false
-draft: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/theodore-roosevelt-presidential-cream-soda.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
 - ok
 tags:
 - Very Sweet
+- Cream
+- Vanilla
+- Fruit
+- Pineapple
+- Coconut
 brands:
-- Theodore Roosevelt
+- Presidential Soda
 ---
 
 Very sweet. Light pineapple/coconut, heavy vanilla over burnt sugar. Ok.

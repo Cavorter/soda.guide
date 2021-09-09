@@ -13,7 +13,7 @@ tags:
 - Anise
 - Sarsaparilla
 brands:
-- Dublin
+- Dublin Bottling Works
 ---
 
 Very sweet. Sarsaparilla with wintergreen and a touch of anise. Slightly candy-like. OK.

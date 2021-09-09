@@ -14,7 +14,7 @@ brands:
 - Hippo Sized
 ---
 
-Very sweet. String caramel and wintergreen with a short clean finish. Somewhat candy-like. OK.
+Very sweet. Strong caramel and wintergreen with a short clean finish. Somewhat candy-like. OK.
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/640939905300828161)
 

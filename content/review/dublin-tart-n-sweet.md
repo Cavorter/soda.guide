@@ -13,7 +13,7 @@ tags:
 - Citrus
 - Lemon
 brands:
-- Dublin
+- Dublin Bottling Works
 ---
 
 Very sweet. Artificial lemon comes across as mostly the sweet side of a lemon drop. OK.
