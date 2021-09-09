@@ -4,7 +4,7 @@ date: 2015-11-17
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/vermont-sweetwater-maple-seltzer.jpg"
 categories:
-- soda
+- seltzer
 ratings:
 - pass
 tags:
