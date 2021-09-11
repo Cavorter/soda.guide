@@ -10,7 +10,7 @@ From a very young age I have enjoyed food and drink in it's many and varied form
 
 Exploring the bounds of soft drinks is something I have been doing for most of my adult life. In the late 90's and early 00's I hosted tasting parties where I assembled as many different varieties of soda that I could find and finally in 2010 I started to post short reviews to Twitter. I had been intending to eventually set up a website where I could archive and easily reference my reviews some day but in the fall of 2020 after deciding that reading Twitter really wasn't good for me I finally needed to put this site together.
 
-Over time I will be posting all of my older reviews here and starting to post new reviews as I find new and interesting things to drink.
+I have finally finished collecting all of my old Twitter reviews and posted them here and am posting new reviews here. I suspect there will be at least one more fairly major site update in not too long.
 
 ## Frequently Asked Questions
 
