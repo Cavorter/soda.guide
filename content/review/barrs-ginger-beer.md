@@ -1,5 +1,5 @@
 ---
-title: "Barr's Ginger Beer"
+title: "Barr's Originals Ginger Beer"
 date: 2015-10-27
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/barrs-ginger-beer.jpg"

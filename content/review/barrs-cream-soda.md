@@ -1,5 +1,5 @@
 ---
-title: "Barr's Cream Soda"
+title: "Barr's Originals Cream Soda"
 date: 2015-11-18
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/barrs-cream-soda.jpg"

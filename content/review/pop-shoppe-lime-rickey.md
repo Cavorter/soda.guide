@@ -14,6 +14,7 @@ tags:
 - Lime
 brands:
 - Pop Shoppe
+- Beverage World
 ---
 
 Very sweet. Strong lime, only slightly artificial. Short nice finish. Ok.

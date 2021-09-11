@@ -16,6 +16,7 @@ tags:
 - Cream
 brands:
 - Bedford's
+- Orca
 ---
 
 Very sweet. Very high quality cough syrup substitute. Mercifully short finish. Pass.

@@ -14,6 +14,7 @@ tags:
 - Huckleberry
 brands:
 - Americana
+- Orca
 ---
 
 Quite sweet. Thick and intense berry tails off to surprisingly clean finish. RECOMMENDED. 
