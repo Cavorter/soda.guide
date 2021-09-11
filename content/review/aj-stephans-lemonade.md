@@ -1,5 +1,5 @@
 ---
-title: "AJ Stephan's Lemonade"
+title: "AJ Stephans Lemonade"
 date: 2016-10-14
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/aj-stephans-lemonade.jpg"
@@ -13,7 +13,7 @@ tags:
 - Citrus
 - Lemon
 brands:
-- AJ Stephan's
+- AJ Stephans
 ---
 
 Very sweet. Nearly untangy. Nearly natural in flavor. Nearly decent finish. Nearly so many things including good. OK.

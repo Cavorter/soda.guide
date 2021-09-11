@@ -1,5 +1,5 @@
 ---
-title: "Aj Stephens Lemon Lime" # Title of the blog post.
+title: "AJ Stephans Lemon Lime" # Title of the blog post.
 date: 2009-06-17
 categories:
 - soda
@@ -8,7 +8,7 @@ ratings:
 tags:
 - Quite Sweet
 brands:
-- AJ Stephens
+- AJ Stephans
 ---
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.

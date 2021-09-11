@@ -1,5 +1,5 @@
 ---
-title: "Oak Creek Blonde Root Beer" # Title of the blog post.
+title: "Oak Creek Blonde Barrel Aged Root Beer" # Title of the blog post.
 date: 2018-03-28T20:37:00-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oak-creek-blonde-root-beer.jpg" # Sets thumbnail image appearing inside card on homepage.

@@ -1,5 +1,5 @@
 ---
-title: "Aj Stephans Root Beer" # Title of the blog post.
+title: "AJ Stephans Root Beer" # Title of the blog post.
 date: 2018-03-21T13:12:00-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/aj-stephans-root-beer.jpg" # Sets thumbnail image appearing inside card on homepage.

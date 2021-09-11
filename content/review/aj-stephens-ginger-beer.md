@@ -1,8 +1,8 @@
 ---
-title: "AJ Stephens Ginger Beer"
+title: "AJ Stephans Ginger Beer"
 date: 2015-02-27
 featured: false
-thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/aj-stephens-ginger-beer.jpg"
+thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/aj-stephans-ginger-beer.jpg"
 categories:
 - soda
 ratings:
@@ -12,12 +12,12 @@ tags:
 - Ginger
 - Ginger Beer
 brands:
-- AJ Stephens
+- AJ Stephans
 ---
 
 Spicy and forward ginger flavor but not too raw in tone. Medium sweet. Decent.
 
 [Originally posted to Twitter.](https://twitter.com/Cavorter/status/571454345897598976)
 
-{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/aj-stephens-ginger-beer.jpg" >}}
+{{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/aj-stephans-ginger-beer.jpg" >}}
 
