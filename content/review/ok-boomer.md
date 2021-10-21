@@ -7,7 +7,6 @@ categories:
 - soda
 ratings:
 - ok
-- Recommended
 tags:
 - Very Sweet
 - Cinnamon
