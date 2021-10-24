@@ -5,7 +5,7 @@ title = "Nathan's Soda Guide"
 author = "Nathan Stohlmann"
 copyright = "Copyright © 2020 Nathan Stohlmann all rights reserved."
 # canonifyurls = true
-paginate = 10
+paginate = 30
 theme = "hugo-clarity"
 
 # disqusShortname = ""
