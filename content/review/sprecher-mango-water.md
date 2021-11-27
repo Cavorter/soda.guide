@@ -15,7 +15,7 @@ brands:
 - Sprecher
 ---
 
-Not sweet. A really interesting flavor profile. Starts with something close to green mango and segues into a slightly more ripe version of the fruit. Very extended finish is creamy and fruity.
+Not sweet. A really interesting flavor profile. Starts with something close to green mango and segues into a slightly more ripe version of the fruit. Very extended finish is creamy and fruity. Ok.
 
 Purchased at the [Saint Paul Midway Menard's](https://www.menards.com/main/storeDetails.html?store=3181)
 
