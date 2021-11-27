@@ -9,6 +9,9 @@ ratings:
 - ok
 tags:
 - Not Sweet
+- Fruit
+- Berry
+- Raspberry
 brands:
 - Sprecher
 ---
