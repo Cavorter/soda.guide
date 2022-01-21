@@ -14,6 +14,7 @@ tags:
 - Raspberry
 - Herbal
 brands:
+- Serenity Sodas
 - Blue Sun
 ---
 

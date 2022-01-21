@@ -14,7 +14,7 @@ tags:
 - orange
 - Cinnamon
 brands:
-- Serenity
+- Serenity Sodas
 - Blue Sun
 ---
 
