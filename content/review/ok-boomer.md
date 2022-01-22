@@ -24,11 +24,11 @@ Similar to some of Real Soda's other lines, the label has a _lot_ going on. The 
 
 > When someone says "Hey kid, how many N's in "Millennial" you say "Who cares, I got spellcheck on my phone!" and then when your phone battery goes your brain follows right behind... but that's ok!
 
-> Refrierate and you'll chill out & become a fan of climate change!
+> Refrigerate and you'll chill out & become a fan of climate change!
 
 > Old school taste from a time when people were taught by teachers, not bloggers!
 
-> A taste so powerful it can turn the most acquiscent into fierce street protesters... always thirsty for more, more, more!
+> A taste so powerful it can turn the most acquiescent into fierce street protesters... always thirsty for more, more, more!
 
 > 12 fl.oz. (355 ml for those who insist on using the metric system!)
 
