@@ -5,7 +5,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/me-
 categories:
 - other
 tags:
-- Dragonfruit
+- Dragon Fruit
 - Blackberry
 brands:
 - Me

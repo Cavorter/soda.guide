@@ -9,7 +9,6 @@ ratings:
 - ok
 tags:
 - Very Sweet
-- Artificial Sweetner
 - Sucralose
 - pineapple
 - coconut

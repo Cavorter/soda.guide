@@ -12,6 +12,7 @@ tags:
 - Malt
 - Hops
 - Bitter
+- Near Beer
 brands:
 - Bavaria
 - Royal Swinkels Family Brewers

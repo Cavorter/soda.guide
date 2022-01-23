@@ -10,7 +10,7 @@ ratings:
 tags:
 - Very Sweet
 - Fruit
-- Cirus
+- Citrus
 - Orange
 brands:
 - Faygo

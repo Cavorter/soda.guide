@@ -17,7 +17,7 @@ tags:
 - Citrus
 - Lemon
 - Floral
-- Lavendar
+- Lavender
 brands:
 - Deane's Kombucha
 ---

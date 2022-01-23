@@ -9,7 +9,7 @@ ratings:
 - pass
 tags:
 - Very Sweet
-- Alchoholic
+- Alcoholic
 - Fruit
 - Citrus
 - Orange
