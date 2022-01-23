@@ -4,7 +4,7 @@ date: 2016-10-28
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/saint-paul-switchel-haymakers-punch.jpg"
 categories:
-- other
+- Switchel
 ratings:
 - Recommended
 tags:

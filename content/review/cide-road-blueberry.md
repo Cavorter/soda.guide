@@ -4,13 +4,12 @@ date: 2016-12-24
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/cide-road-blueberry.jpg"
 categories:
-- Other
+- Switchel
 ratings:
 - Recommended
 tags:
 - Quite Sweet
 - Vinegar
-- Switchel
 - Fruit
 - Berry
 - Blueberry

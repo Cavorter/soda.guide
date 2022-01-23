@@ -4,7 +4,7 @@ date: 2021-06-20T10:23:59-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/superior-hibiscus-switchel.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
-- other
+- Switchel
 ratings:
 - ok
 tags:
@@ -12,7 +12,6 @@ tags:
 - Floral
 - Hibiscus
 - Vinegar
-- Switchel
 brands:
 - Superior Craft Elixirs
 ---

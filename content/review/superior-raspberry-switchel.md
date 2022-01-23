@@ -4,7 +4,7 @@ date: 2021-06-21T14:27:47-05:00 # Date of post creation.
 featured: true
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/superior-raspberry-switchel.jpg" # Sets thumbnail image appearing inside card on homepage.
 categories:
-- other
+- Switchel
 ratings:
 - Recommended
 tags:
@@ -13,7 +13,6 @@ tags:
 - Fruit
 - Berry
 - Raspberry
-- Switchel
 brands:
 - Superior Craft Elixirs
 ---
