@@ -12,6 +12,7 @@ tags:
 - Fruit
 - Apple
 - Malt
+- Near Beer
 brands:
 - Bavaria
 - Royal Swinkels Family Brewers
