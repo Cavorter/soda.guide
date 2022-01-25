@@ -19,7 +19,7 @@ brands:
 - Poppi
 ---
 
-Quite sweet. As with their [Ginger Lime flavor](poppi-ginger-lime) the sweetener is hard to place, but in this blend the vinegar has either retained more of it's edge or maybe it's just borrowing from the very prominent lemon. Either way, the berry lightly gilds the underlying sharpness but never quite melds the competeing flavors. The finish isn't quite bad, but is at best muddled and slightly off putting. Pass.
+Quite sweet. As with their [Ginger Lime flavor](../poppi-ginger-lime) the sweetener is hard to place, but in this blend the vinegar has either retained more of it's edge or maybe it's just borrowing from the very prominent lemon. Either way, the berry lightly gilds the underlying sharpness but never quite melds the competeing flavors. The finish isn't quite bad, but is at best muddled and slightly off putting. Pass.
 
 Purchased from [Cub Foods Har Mar](https://www.cub.com/)
 
