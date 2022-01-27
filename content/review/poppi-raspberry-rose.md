@@ -14,6 +14,7 @@ tags:
 - Raspberry
 - Floral
 - Rose
+- Vinegar
 brands:
 - Poppi
 ---
