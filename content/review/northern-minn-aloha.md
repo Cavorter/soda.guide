@@ -9,7 +9,11 @@ ratings:
 - ok
 tags:
 - Very Sweet
-- 
+- Fruit
+- Passionfruit
+- Guava
+- Citrus
+- Orange
 brands:
 - Northern Soda Company
 ---
