@@ -15,7 +15,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 487746997093294081 >}}
+{{< tweet user="Cavorter" id="487746997093294081" >}}
 
 Text:
 > Materva Yerbe Mate Soda. Initial flavor is VERY red pop-ish but develops interestingly. Different, not bad.

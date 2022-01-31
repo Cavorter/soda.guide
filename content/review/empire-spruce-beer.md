@@ -15,7 +15,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 514401004826406912 >}}
+{{< tweet user="Cavorter" id="514401004826406912" >}}
 
 In case the tweet is ever deleted, it reads:
 > Empire Spruce Beer. Yes, like the conifer. Think sweetened Retsina. Refreshing and different. Highly recommended. http://t.co/YgTQlrj3eK

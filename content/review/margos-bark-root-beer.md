@@ -18,7 +18,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 372432630974668800 >}}
+{{< tweet user="Cavorter" id="372432630974668800" >}}
 
 Text:
 > Today's soda: Margo's Bark root beer. Mild sweetness, intense anise, nice wintergreen/birch, clean finish. Very good!
