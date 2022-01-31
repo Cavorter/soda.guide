@@ -13,7 +13,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 491292558677770240 >}}
+{{< tweet user="Cavorter" id="491292558677770240" >}}
 
 Text:
 > Sangaria Party Pop: Didn't notice the guarana in the ingredients till I was trying to figure out the flavor profile.

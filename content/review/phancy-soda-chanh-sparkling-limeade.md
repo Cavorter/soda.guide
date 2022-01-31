@@ -15,7 +15,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 440942746866814976 >}}
+{{< tweet user="Cavorter" id="440942746866814976" >}}
 
 Text:
 > Phancy Soda Chanh Vietnamese Sparkling Limeade. excellent lime with balanced sweetness. Recommended.

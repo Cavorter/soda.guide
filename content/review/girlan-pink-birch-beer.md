@@ -16,9 +16,9 @@ brands:
 ---
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 364812467014098944 >}}
+{{< tweet user="Cavorter" id="364812467014098944" >}}
 
-{{< tweet 364817662422941696 >}}
+{{< tweet user="Cavorter" id="364817662422941696" >}}
 
 In case these tweets are ever deleted, they read:
 > Today's lunch soda: Girlan Pink Birch Beer

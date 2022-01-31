@@ -19,7 +19,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 493820372744425472 >}}
+{{< tweet user="Cavorter" id="493820372744425472" >}}
 
 Text:
 > Lemonade: Fantastic lemon-lime flavor. Just about perfectly sweet. Good finish. Hilarious bottle.

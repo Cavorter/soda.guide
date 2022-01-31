@@ -19,8 +19,8 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 372146447279349760 >}}
-{{< tweet 372337908046249984 >}}
+{{< tweet user="Cavorter" id="372146447279349760" >}}
+{{< tweet user="Cavorter" id="372337908046249984" >}}
 
 Text:
 > In honor of the weather, today's soda: Safari Mist Orange Mango.

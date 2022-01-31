@@ -18,7 +18,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 376035883155456000 >}}
+{{< tweet user="Cavorter" id="376035883155456000" >}}
 
 Text:
 > Vermont Sweetwater Bottling Tangerine Cream Twister: Too much vanilla for me. Better than usual orange cream. Ok.
