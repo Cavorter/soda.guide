@@ -17,7 +17,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet user="Cavorter" id="524626513405423616" >}}
+{{< tweet 524626513405423616 >}}
 
 In case the tweet is ever deleted, it reads:
 > Jones PB&J: Strong grapey flavor with mild "nutty" tones. Same low rent Jones sugar. Interesting. Worth trying.

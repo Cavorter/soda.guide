@@ -16,12 +16,12 @@ brands:
 
 **NOTE:** These reviews are early items I found in my old Twitter stream that count as soda reviews.
 
-{{< tweet user="Cavorter" id="1008390944" >}}
+{{< tweet 1008390944 >}}
 
 Text of the tweet:
 > Lemongrass Dry Soda smells like old formula 7Up. Great flavor too.
 
-{{< tweet user="Cavorter" id="1011590936" >}}
+{{< tweet 1011590936 >}}
 
 Text of the tweet:
 > Lavender Dry Soda is much improved served chilled. Still not as good as the Kumquat though.

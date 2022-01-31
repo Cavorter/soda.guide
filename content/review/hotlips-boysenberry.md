@@ -17,7 +17,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet user="Cavorter" id="369530486185414656" >}}
+{{< tweet 369530486185414656 >}}
 
 Text:
 > For the record, Hotlips Boysenberry soda is really spectacular. Wow.

@@ -16,7 +16,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet user="Cavorter" id="491636861412995072" >}}
+{{< tweet 491636861412995072 >}}
 
 Text:
 > Rocky Mountain Evergreen Elderberry: Very sweet but nice. Decent quality sugar. Lingers a bit too long.

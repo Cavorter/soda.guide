@@ -12,7 +12,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet user="Cavorter" id="13528050691" >}}
+{{< tweet 13528050691 >}}
 
 In case the tweet is ever deleted, it reads:
 > Birthday Soda Day One: Olde Brooklyn Williamsburg Root Beer http://twitpic.com/1lobso
