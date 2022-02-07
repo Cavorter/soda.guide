@@ -1,6 +1,6 @@
 ---
 title: "RC Cola" # Title of the blog post.
-date: 2022-01-29T14:12:03-06:00 # Date of post creation.
+date: 2022-02-07T14:12:03-06:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/2d6da883-f860-4cce-fa0b-712f9263d200/thumb" # Sets thumbnail image appearing inside card on homepage.
 categories:
