@@ -2,7 +2,7 @@
 title: "Northern Huckleberry" # Title of the blog post.
 date: 2022-02-08T09:20:22-06:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
-thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/1c4fb739-b692-44d8-953a-0abac20c2500/public" # Sets thumbnail image appearing inside card on homepage.
+thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/1c4fb739-b692-44d8-953a-0abac20c2500/thumb" # Sets thumbnail image appearing inside card on homepage.
 categories:
 - soda
 ratings:
@@ -21,4 +21,4 @@ Very sweet. Candied slightly-generic berry flavor is pretty straight forward and
 
 Purchased from [Northern Soda Company](https://northernsoda.com)
 
-{{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/1c4fb739-b692-44d8-953a-0abac20c2500/thumb" >}}
+{{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/1c4fb739-b692-44d8-953a-0abac20c2500/public" >}}
