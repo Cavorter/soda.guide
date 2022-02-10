@@ -1,5 +1,5 @@
 ---
-title: "Hanks Citrus" # Title of the blog post.
+title: "Hank's Citrus" # Title of the blog post.
 date: 2022-02-10T12:57:06-06:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 # thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/review/thumbs/hanks-citrus.jpg" # Sets thumbnail image appearing inside card on homepage.
