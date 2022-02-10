@@ -1,3 +1,8 @@
 public
 tweetdata
 twitter
+debug.log
+
+# Local project settings
+cfParams.xml
+local.settings.json

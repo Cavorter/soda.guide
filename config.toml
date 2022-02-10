@@ -45,7 +45,8 @@ tag = "tags"
     tabWidth = 2
 
 [params]
-image_root = "https://sodaguideimg.blob.core.windows.net/content"
+#image_root = "https://sodaguideimg.blob.core.windows.net/content"
+image_root = "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A"
 
 # author = "Nathan's Soda Guide"
 # twitter = "@janedoe"
