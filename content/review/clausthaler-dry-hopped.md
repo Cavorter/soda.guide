@@ -18,6 +18,6 @@ brands:
 
 Slightly sweet. More malt than hops at the start. The hops do fairly quickly assert themselves for a fairly characteristic Cascade bitterness. Bitterness fades before the medium long, fairly nice finish. Ok
 
-Purchased from [Top Ten Liqours Roseville](https://toptenliquors.com)
+Purchased from [Top Ten Liquors Roseville](https://toptenliquors.com)
 
 {{< figure src="https://sodaguideimg.blob.core.windows.net/content/review/clausthaler-dry-hopped.jpg" >}}

@@ -9,7 +9,7 @@ Param(
     [switch]$NoImage
 )
 
-$ErrorActionPreference = "Stop"
+# $ErrorActionPreference = "Stop"
 
 $localSettingsPath = Join-Path -Path $PSScriptRoot -ChildPath local.settings.json
 $localSettings = Get-Content -Path $localSettingsPath | ConvertFrom-Json -AsHashtable
@@ -39,10 +39,19 @@ if ( -not $NoImage ) {
     }
 }
 
-$reviewFile = ( &hugo new "review/$($Name).md" ).Split(' ')[0]
+# Get Hugo version
+$versionRaw = (hugo version).Split(' ')[1]
+$versionObj = [version]$versionRaw.Substring(1,$versionRaw.length-1).Split('-')[0]
+$contentIndex = $versionObj -lt "0.92.0" ? 0 : 1
+
+$rawFile = ( &hugo new "review/$($Name).md" ).Split(' ')[$contentIndex]
+Write-Verbose "Raw File: $rawFile"
+
+$reviewFile = $versionObj -lt "0.92.0" ? $rawFile : $rawFile.Replace('"','').Replace('\\','\')
+Write-Verbose "Review File: $reviewFile"
 
 if ( $imageInfo ) {
     Write-Host "Updating image url with id: $($imageInfo.id)"
-    ( Get-Content -Path $reviewFile -Raw ) -replace 'image-id-here' , $imageInfo.id | Set-Content -Path $reviewFile
+    ( Get-Content -Path $reviewFile | Out-String ) -replace 'image-id-here' , $imageInfo.id | Set-Content -Path $reviewFile
 }
 &code $reviewFile
