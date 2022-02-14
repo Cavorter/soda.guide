@@ -17,6 +17,8 @@ brands:
 - Hairless Dog
 ---
 
+[Something Bowl Sunday 1/5](https://www.cavort.org/posts/2022-02-13-something-bowl-sunday/)
+
 Slightly sweet. Overpowering hops nearly obliterates everything else though some malt comes through eventually. IPA lovers looking for a non-alcoholic beer might enjoy this but far too hoppy for something labelled a "lager". Pass.
 
 Purchased from [Top Ten Liquors Roseville](https://toptenliquors.com)

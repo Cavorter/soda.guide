@@ -17,6 +17,8 @@ brands:
 - Athletic Brewing Co
 ---
 
+[Something Bowl Sunday 4/5](https://www.cavort.org/posts/2022-02-13-something-bowl-sunday/)
+
 Not sweet. Roasted malts are the star and they do shine pretty well. Slightly toasted bitter edge brings character and adds to the depth. A little more thin that I normally like my stouts, but works ok here. Not perfect, but worth it. Recommended.
 
 Purchased at [Stinson Wine, Beer and Spirits](https://www.stinsonwbs.com)

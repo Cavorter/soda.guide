@@ -17,6 +17,8 @@ brands:
 - Athletic Brewing Co
 ---
 
+[Something Bowl Sunday 3/5](https://www.cavort.org/posts/2022-02-13-something-bowl-sunday/)
+
 Not sweet. Lightly malted and fairly clean with just enough depth to be interesting. Other than the alcohol it's really similar to a Corona. Recommended.
 
 Purchased at [Stinson Wine, Beer and Spirits](https://www.stinsonwbs.com)
