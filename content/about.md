@@ -1,6 +1,6 @@
 +++
 title = "About Nathan's Soda Guide"
-date = "2020-12-12"
+date = "2022-02-19"
 aliases = ["about-us", "about-hugo", "contact"]
 +++
 
