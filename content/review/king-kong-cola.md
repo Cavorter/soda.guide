@@ -9,6 +9,7 @@ ratings:
 - ok
 tags:
 - Very Sweet
+- Novelty
 - Cola
 brands:
 - King Kong

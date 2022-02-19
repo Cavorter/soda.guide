@@ -9,12 +9,14 @@ ratings:
 - ok
 tags:
 - Very Sweet
+- Novelty
 - Fruit
 - Citrus
 - Lemon
 - Vanilla
 - Cream
 brands:
+- Rocket Fizz
 - Melba's Fixins
 ---
 

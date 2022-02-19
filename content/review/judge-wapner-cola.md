@@ -9,6 +9,7 @@ ratings:
 - pass
 tags:
 - Very Sweet
+- Novelty
 - Cola
 brands:
 - Judge Wapner

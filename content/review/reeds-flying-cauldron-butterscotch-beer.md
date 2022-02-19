@@ -9,6 +9,7 @@ ratings:
 - ok
 tags:
 - SUGARBOMB
+- Novelty
 - Butterscotch
 - Vanilla
 brands:
