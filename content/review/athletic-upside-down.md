@@ -1,5 +1,5 @@
 ---
-title: "Athletic Upside Down" # Title of the blog post.
+title: "Athletic Upside Dawn" # Title of the blog post.
 date: 2022-02-13T14:45:43-06:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 # thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/review/thumbs/athletic-upside-down.jpg" # Sets thumbnail image appearing inside card on homepage.
