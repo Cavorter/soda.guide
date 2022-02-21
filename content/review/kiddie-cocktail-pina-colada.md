@@ -14,6 +14,7 @@ tags:
 - Coconut
 brands:
 - Blue Sun
+- Kiddie Cocktails
 ---
 
 Very Sweet. Pretty strongly reminiscent of a slightly over sweet version of the classic drink. Well defined pineapple and present but not overpowering coconut. My only slight complaint is a hint of detergent just before the finish, but it's fleeting enough to ignore easily. Ok.

@@ -14,6 +14,7 @@ tags:
 - Lime
 brands:
 - Blue Sun
+- Kiddie Cocktails
 ---
 
 Very sweet. Fairly classic naturally flavored lime soda with maybe a dash of extra non-specific depth from start to slightly sticky finish. Ok.
