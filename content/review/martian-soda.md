@@ -9,6 +9,7 @@ ratings:
 - Recommended
 tags:
 - Very Sweet
+- Novelty
 - Fruit
 - Citrus
 - Kumquat

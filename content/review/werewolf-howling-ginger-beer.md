@@ -9,6 +9,7 @@ ratings:
 - ok
 tags:
 - Quite Sweet
+- Novelty
 - Ginger
 - Ginger Beer
 brands:

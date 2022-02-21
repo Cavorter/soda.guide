@@ -7,6 +7,7 @@ ratings:
 - ok
 tags:
 - Very Sweet
+- Novelty
 - Ginger
 - Holiday
 brands:

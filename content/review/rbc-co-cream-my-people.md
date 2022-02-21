@@ -9,6 +9,7 @@ ratings:
 - ok
 tags:
 - Very Sweet
+- Novelty
 - Vanilla
 brands:
 - RBC Co

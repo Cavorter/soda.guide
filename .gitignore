@@ -6,3 +6,4 @@ debug.log
 # Local project settings
 cfParams.xml
 local.settings.json
+.hugo_build.lock

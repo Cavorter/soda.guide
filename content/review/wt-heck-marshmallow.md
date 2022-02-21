@@ -10,6 +10,7 @@ ratings:
 - ok
 tags:
 - Very Sweet
+- Novelty
 - Vanilla
 - Caramel
 brands:

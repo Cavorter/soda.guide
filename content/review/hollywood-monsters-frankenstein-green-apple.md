@@ -9,6 +9,7 @@ ratings:
 - pass
 tags:
 - SUGARBOMB
+- Novelty
 - Fruit
 - Apple
 brands:

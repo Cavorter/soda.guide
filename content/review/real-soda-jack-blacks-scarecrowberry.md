@@ -9,6 +9,7 @@ ratings:
 - pass
 tags:
 - Quite Sweet
+- Novelty
 - Peanut Butter
 - Fruit
 - Berry

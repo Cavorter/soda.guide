@@ -9,6 +9,7 @@ ratings:
 - Recommended
 tags:
 - Quite Sweet
+- Novelty
 - Cinnamon
 - Allspice
 brands:
