@@ -7,9 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/e9052cba-645d-4d3f-
 categories:
 - soda
 ratings:
-- pass
 - ok
-- Recommended
 tags:
 - Very Sweet
 - Novelty
