@@ -10,12 +10,12 @@ ratings:
 - ok
 tags:
 - Slightly Sweet
-brands:
-- Tealixer
 - Chamomile
 - Mint
 - Spearmint
 - Herbal
+brands:
+- Tealixer
 ---
 
 Marketing is a funny thing. When a particular product or type of product is selling very well there is a tendency for other companies to come up with "new" products that are labelled and marketed like the new hotness so they can get in on the fad. Tealixer's line of "Herbal Sparkling Water" would have been labelled as a "Sparkling Herbal Tea" not even 10 years ago when that market segment was more popular. Now that everyone is still chasing La Croix Pamplemousses we have a perfectly nice RTD herbal tea with a fairly misleading label. Maybe I'm just grumpy today, because I also have some pointed questions about the wisdom of promoting "North American Folk" remedies as a highlight of the US antebellum era? Or really promoting any nostalgia about the antebellum south? I tried to read more about the company on their website but they clearly haven't been maintaining it properly so it wasn't particularly functional for me in any browser.
