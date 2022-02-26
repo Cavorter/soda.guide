@@ -15,6 +15,7 @@ tags:
 - Blue Cheese
 brands:
 - Blue Sun
+- W.T. Heck
 ---
 
 Very sweet. I really did not know what to expect from this one. The likely outcome of course was that it was going to be terrible in some very creative way, but to my somewhat incredible surprise this is actually kind of good. Picture in your mind the flavor of a rich Maytag or Stilton and strip away the creamy parts leaving the funky flavors from the mold. Then pair that with a reasonably nice highly sweetened carbonated water. That is this, colored a somewhat startling blue, in a bottle. The finish is mostly candylike and somewhat long but with almost none of the mold.

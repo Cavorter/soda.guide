@@ -14,6 +14,7 @@ tags:
 - Vanilla
 - Caramel
 brands:
+- W.T. Heck
 - Blue Sun
 ---
 

@@ -14,6 +14,7 @@ tags:
 - Cucumber
 brands:
 - Blue Sun
+- W.T. Heck
 ---
 
 Very sweet. About as odd as you would expect. Good dill with pretty nice cucumber that is unfortunately overly sweet. Extremely long finish is slightly bitter but inoffensive. Might actually be very good with about half the sugar. Pass.
