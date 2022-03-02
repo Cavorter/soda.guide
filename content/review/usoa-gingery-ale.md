@@ -7,11 +7,11 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/d123f5f9-396b-44e8-
 categories:
 - soda
 ratings:
-- pass
 - ok
-- Recommended
 tags:
 - Quite Sweet
+- Ginger
+- Ginger Ale
 - Stevia
 - Erythritol
 brands:
