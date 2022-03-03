@@ -11,10 +11,12 @@ ratings:
 - ok
 - Recommended
 tags:
-- Not Sweet
-- Slightly Sweet
 - Medium Sweet
-- Quite Sweet
+- Fruit
+- Citrus
+- Herbal
+- Lemon
+- Lemon Verbena
 - Stevia
 - Erythritol
 brands:
