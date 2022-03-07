@@ -19,6 +19,7 @@ tags:
 - Novelty
 brands:
 - FYE
+- Dragon Ball Z
 ---
 
 Very sweet. Light, bright, and citrusy. A bit more lemon than lime, for all that it's mostly a pretty good generic citrus soda. Closer to 7-Up than to Sprite. Decent finish. Ok.
