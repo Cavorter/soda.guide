@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/chi
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - Quite Sweet
 - Root Beer

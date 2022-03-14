@@ -6,7 +6,7 @@ featured: false
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - SUGARBOMB
 - Fruit

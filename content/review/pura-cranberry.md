@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/82b71b7e-bc57-434d-
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Medium Sweet
 - Berry

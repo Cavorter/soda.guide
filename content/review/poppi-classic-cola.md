@@ -6,7 +6,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/5f9c2c20-be69-4e51-
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - Medium Sweet
 - Cola

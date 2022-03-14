@@ -6,7 +6,7 @@ thumbnail: "https://pbs.twimg.com/media/BRATAYLCYAE7GE8?format=jpg&name=medium" 
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - SUGARBOMB
 - Birch Beer

@@ -6,8 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/sua
 categories:
 - soda
 ratings:
-- ok
-- Recommended
+- Ok
 tags:
 - Very Sweet
 - Fruit

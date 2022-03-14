@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/red
 categories:
 - other
 ratings:
-- ok
+- Ok
 tags:
 - Quite Sweet
 - grape

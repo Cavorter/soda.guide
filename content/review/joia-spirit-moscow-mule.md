@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/joi
 categories:
 - other
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 - Alcoholic

@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/d123f5f9-396b-44e8-
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Quite Sweet
 - Ginger

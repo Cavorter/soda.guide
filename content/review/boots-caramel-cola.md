@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boo
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 - Cola

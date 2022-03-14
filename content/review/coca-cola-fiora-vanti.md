@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fio
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - SUGARBOMB
 brands:

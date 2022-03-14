@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/406ae2c2-5057-444a-
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 - Novelty

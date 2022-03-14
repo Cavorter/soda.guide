@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oka
 categories:
 - other
 ratings:
-- ok
+- Ok
 tags:
 - Medium Sweet
 - Coffee

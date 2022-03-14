@@ -6,8 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/oli
 categories:
 - soda
 ratings:
-- ok
-- Recommended
+- Ok
 tags:
 - Slightly Sweet
 - Medium Sweet

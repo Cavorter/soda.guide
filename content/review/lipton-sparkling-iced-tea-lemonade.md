@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/lip
 categories:
 - Tea
 ratings:
-- ok
+- Ok
 tags:
 - Quite Sweet
 - Fruit

@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/lak
 categories:
 - kombucha
 ratings:
-- pass
+- Pass
 tags:
 - Slightly Sweet
 - Vinegar

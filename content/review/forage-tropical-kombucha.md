@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/for
 categories:
 - kombucha
 ratings:
-- pass
+- Pass
 tags:
 - Medium Sweet
 - Vinegar

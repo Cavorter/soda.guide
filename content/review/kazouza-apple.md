@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kaz
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - Very Sweet
 - Fruit

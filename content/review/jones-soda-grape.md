@@ -5,11 +5,8 @@ featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/jones-soda-grape.jpg"
 categories:
 - soda
-- water
-- kombucha
-- other
 ratings:
-- pass
+- Pass
 tags:
 - Medium Sweet
 brands:

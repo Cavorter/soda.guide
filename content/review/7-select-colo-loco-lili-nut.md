@@ -6,12 +6,13 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/7-s
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - SUGARBOMB
 - fruit
 - coconut
 - floral
+- Twitter
 brands:
 - 7 Select
 - Jones Soda

@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/07fddc71-b5bb-4b3e-
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 - Fruit

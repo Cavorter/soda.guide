@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/a377a13b-50bd-470a-
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Medium Sweet
 - Fruit

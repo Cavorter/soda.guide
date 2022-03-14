@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kev
 categories:
 - kombucha
 ratings:
-- ok
+- Ok
 tags:
 - Slightly Sweet
 - fruit

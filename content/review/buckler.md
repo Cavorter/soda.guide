@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/buc
 categories:
 - other
 ratings:
-- pass
+- Pass
 tags:
 - Slightly Sweet
 - Near Beer

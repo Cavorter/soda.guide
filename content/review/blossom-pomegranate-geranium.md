@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/blo
 categories:
 - water
 ratings:
-- ok
+- Ok
 tags:
 - Medium Sweet
 - Still

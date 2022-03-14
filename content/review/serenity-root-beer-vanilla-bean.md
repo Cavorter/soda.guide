@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/cf4029c1-00a1-4a7e-
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 - Root Beer

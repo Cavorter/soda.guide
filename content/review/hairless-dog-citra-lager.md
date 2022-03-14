@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/c4ed4b5e-3ef3-48ba-
 categories:
 - other
 ratings:
-- pass
+- Pass
 tags:
 - Slightly Sweet
 - Near Beer

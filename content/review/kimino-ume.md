@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/kim
 categories:
 - water
 ratings:
-- ok
+- Ok
 tags:
 - Slightly Sweet
 - fruit

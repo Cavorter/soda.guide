@@ -42,8 +42,8 @@ foreach ( $item in $ratingsSheet ) {
     $post += "ratings:"
 
     switch ( $item.Rating ) {
-        0 { $rating = "- pass"}
-        1 { $rating = "- ok" }
+        0 { $rating = "- Pass"}
+        1 { $rating = "- Ok" }
         2 { $rating = "- Recommended" }
     }
     $post += $rating

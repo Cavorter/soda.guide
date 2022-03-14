@@ -4,11 +4,11 @@ date: 2020-08-16T15:13:00-06:00
 categories:
 - water
 ratings:
-- ok
+- Ok
 tags:
 - medium sweet
 - water
-- passion fruit
+- Passion fruit
 - honey
 brands:
 - Hung Fook Tong

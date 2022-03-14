@@ -10,8 +10,8 @@ categories:
 - kombucha
 - other
 ratings:
-- pass
-- ok
+- Pass
+- Ok
 - Recommended
 tags:
 - Not Sweet

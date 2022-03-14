@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/tap
 categories:
 - kombucha
 ratings:
-- ok
+- Ok
 tags:
 - Medium Sweet
 - Vinegar

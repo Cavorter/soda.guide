@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/7-s
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - SUGARBOMB
 - Fruit
@@ -15,6 +15,7 @@ tags:
 - Lemon
 - Orange
 - Sucralose
+- Twitter
 brands:
 - 7 Select
 - Jones Soda

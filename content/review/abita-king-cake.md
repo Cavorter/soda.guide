@@ -11,6 +11,7 @@ tags:
 - Very Sweet
 - Cinnamon
 - Vanilla
+- Twitter
 brands:
 - Abita
 ---

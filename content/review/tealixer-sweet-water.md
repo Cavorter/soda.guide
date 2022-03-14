@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/2886cc88-cdad-4575-
 categories:
 - tea
 ratings:
-- ok
+- Ok
 tags:
 - Slightly Sweet
 - Chamomile

@@ -6,7 +6,7 @@ thumbnail: "https://pbs.twimg.com/media/Eh9mA5PWAAMFJeD?format=jpg" # Sets thumb
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 - Sucralose

@@ -6,7 +6,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/dfda8be4-c9c5-4a28-
 categories:
 - other
 ratings:
-- ok
+- Ok
 tags:
 - Medium Sweet
 - Chunky

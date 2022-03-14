@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/rea
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - Quite Sweet
 - Fruit

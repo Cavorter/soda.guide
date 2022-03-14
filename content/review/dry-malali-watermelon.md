@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dry
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Slightly Sweet
 - Fruit

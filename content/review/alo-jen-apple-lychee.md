@@ -4,7 +4,7 @@ date: 2020-08-29T13:59:00-06:00
 categories:
 - water
 ratings:
-- ok
+- Ok
 tags:
 - Quite Sweet
 - Still

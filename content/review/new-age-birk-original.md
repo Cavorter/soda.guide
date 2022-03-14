@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/new
 categories:
 - other
 ratings:
-- ok
+- Ok
 tags:
 - Slightly Sweet
 - Herbal

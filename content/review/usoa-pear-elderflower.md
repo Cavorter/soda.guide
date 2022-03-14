@@ -7,8 +7,6 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/0c261bb7-df13-47e3-
 categories:
 - soda
 ratings:
-- pass
-- ok
 - Recommended
 tags:
 - Medium Sweet

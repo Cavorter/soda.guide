@@ -6,7 +6,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/60af4ad1-b1c5-4da7-
 categories:
 - other
 ratings:
-- ok
+- Ok
 tags:
 - Not Sweet
 - Near Beer

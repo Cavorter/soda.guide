@@ -7,8 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/49ea77ea-b5d7-46d1-
 categories:
 - soda
 ratings:
-- pass
-- ok
+- Ok
 tags:
 - Very Sweet
 - Vanilla

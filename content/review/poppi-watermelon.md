@@ -6,14 +6,13 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/d31db9be-3446-4ac5-
 categories:
 - soda
 ratings:
-- ok
 - Recommended
 tags:
 - Medium Sweet
 - Fruit
 - Melon
 - Watermelon
-- Vingegar
+- Vinegar
 - Stevia
 brands:
 - Poppi

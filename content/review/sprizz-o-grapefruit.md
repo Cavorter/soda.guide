@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/spr
 categories:
 - water
 ratings:
-- pass
+- Pass
 tags:
 - Not Sweet
 - Citrus

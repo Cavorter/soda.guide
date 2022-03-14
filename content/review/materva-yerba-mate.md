@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/mat
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - Very Sweet
 - Red Pop

@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/hum
 categories:
 - kombucha
 ratings:
-- ok
+- Ok
 tags:
 - Not Sweet
 - Fruit

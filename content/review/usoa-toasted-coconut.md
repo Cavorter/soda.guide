@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/cb15a309-d217-4c36-
 categories:
 - soda
 ratings:
-- pass
+- Pass
 tags:
 - Slightly Sweet
 - Medium Sweet

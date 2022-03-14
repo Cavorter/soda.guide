@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/dr-
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Medium Sweet
 - Ginger

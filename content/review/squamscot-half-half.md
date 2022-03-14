@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/squ
 categories:
 - other
 ratings:
-- pass
+- Pass
 tags:
 - Not Sweet
 brands:

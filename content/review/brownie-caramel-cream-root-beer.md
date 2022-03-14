@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/bro
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Root Beer
 - caramel

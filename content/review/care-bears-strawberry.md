@@ -7,7 +7,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/5f11b1ab-6ad7-47dd-
 categories:
 - water
 ratings:
-- ok
+- Ok
 tags:
 - Not Sweet
 - Fruit

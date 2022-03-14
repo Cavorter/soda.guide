@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/fou
 categories:
 - water
 ratings:
-- ok
+- Ok
 tags:
 - Not Sweet
 - Floral

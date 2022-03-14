@@ -4,7 +4,7 @@ date: 2007-12-01 # Date of post creation.
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 - Novelty

@@ -3,6 +3,11 @@ title: "Steaz" # Title of the blog post.
 date: 2009-06-28
 categories:
 - soda
+tags:
+- fruit
+- grape
+- citrus
+- lemon
 brands:
 - Steaz
 ---

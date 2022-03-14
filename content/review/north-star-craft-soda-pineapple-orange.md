@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/nor
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - SUGARBOMB
 - Fruit

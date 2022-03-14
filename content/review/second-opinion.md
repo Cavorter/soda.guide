@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/sec
 categories:
 - soda
 ratings:
-- ok
+- Ok
 tags:
 - Very Sweet
 brands:

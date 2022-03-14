@@ -6,7 +6,7 @@ thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/boy
 categories:
 - seltzer
 ratings:
-- ok
+- Ok
 tags:
 - Not Sweet
 - Seltzer
