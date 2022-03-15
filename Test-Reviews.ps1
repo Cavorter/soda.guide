@@ -42,6 +42,10 @@ Describe "Review - <_>" -ForEach $reviewFiles {
         $frontMatter.categories.Count | Should -Be 1
     }
 
+    It "Has up to one sweetness tag" -Skip:( $notYaml ) {
+        $frontMatter.tags.Where({ $_ -like "* Sweet" }).Count | Should -BeLessThan 2
+    }
+
     It "Has the twitter tag if the body has a tweet shortcode" -Pending {
         $shortcodeMatch = '{{< tweet .*? >}}'
         $linkMatch = '\[Originally posted to Twitter.\]'

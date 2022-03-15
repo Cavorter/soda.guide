@@ -8,8 +8,9 @@ categories:
 ratings:
 - Ok
 tags:
-- Slightly Sweet
 - Medium Sweet
+- Root Beer
+- Birch
 brands:
 - Olipop
 ---

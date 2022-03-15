@@ -9,7 +9,6 @@ ratings:
 - Ok
 tags:
 - Medium Sweet
-- Quite Sweet
 - Tea
 - White Tea
 - Tannin

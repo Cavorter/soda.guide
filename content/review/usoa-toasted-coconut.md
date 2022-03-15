@@ -10,7 +10,6 @@ ratings:
 - Pass
 tags:
 - Slightly Sweet
-- Medium Sweet
 - Coconut
 - Stevia
 - Erythritol
