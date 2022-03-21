@@ -1,0 +1,27 @@
+<li class="post_item">
+  <div class="excerpt">
+    <div class="excerpt_header">
+      <h1 class="post_title">{{ .Title }}</h1>
+    </div>
+    {{- with .Params.thumbnail }}
+    <div class="excerpt_footer partition">
+      <div class="excerpt_thumbnail">
+        <img src='{{ if (hasPrefix . "http") }}{{ . }}{{ else }}{{ absURL . }}{{ end }}'>
+      </div>
+      {{ else }}
+      <div class="excerpt_footer">
+        {{- end }}
+        <div>
+          <p>
+            {{ if .Params.website }}
+              <b>Website:</b> <a href="{{ .Params.website }}" >{{ .Params.website }}</a></br>
+            {{ end }}
+            {{ if .Params.website }}
+              <b>Location:</b> {{ .Params.location }}</br>
+            {{ end }}
+            {{ .Content }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>

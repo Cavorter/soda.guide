@@ -7,3 +7,4 @@ debug.log
 cfParams.xml
 local.settings.json
 .hugo_build.lock
+*/_gen/*
