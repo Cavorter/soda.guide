@@ -19,7 +19,7 @@ brands:
 
 Slightly sweet. Bright natural citrus with just enough acid runs from start to medium-long finish. Fairly uncomplicated. I can't quite put my finger on it, but over all comes across as somewhat unsatisfying. Definitely not bad, but maybe just: Ok.
 
-[Purchased from xxx](https://some.site)
+Purchased from [Snackmagic](https://www.snackmagic.com)
 
 {{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/ddd8dba2-3ebc-4a52-0e18-d4fd59c36800/public" >}}
 
