@@ -46,6 +46,11 @@ Describe "Review - <_>" -ForEach $reviewFiles {
         $frontMatter.tags.Where({ $_ -like "* Sweet" }).Count | Should -BeLessThan 2
     }
 
+    It "Does not have the default source link" {
+        $sourceMatch = '\[Purchased from xxx\]\(https://some.site\)'
+        $review | Should -Not -Match $sourceMatch
+    }
+
     It "Has the twitter tag if the body has a tweet shortcode" -Pending {
         $shortcodeMatch = '{{< tweet .*? >}}'
         $linkMatch = '\[Originally posted to Twitter.\]'
