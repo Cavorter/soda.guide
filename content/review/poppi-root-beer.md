@@ -15,7 +15,7 @@ brands:
 - Poppi
 ---
 
-Medium sweet. I was pretty skeptical about this flavor working with the vinegar base [after trying their cola](/reviews/poppi-classic-cola), but I'm pleasantly surprised at the result. Starts a little sweet and then adds just a little bit of tartness from the vinegar before a lovely herbal spice comes through with lots of vanilla. The finish is nearly short, but a very slightly sour presence remains for awhile longer. Nicely different. Highly recommended.
+Medium sweet. I was pretty skeptical about this flavor working with the vinegar base [after trying their cola](/review/poppi-classic-cola), but I'm pleasantly surprised at the result. Starts a little sweet and then adds just a little bit of tartness from the vinegar before a lovely herbal spice comes through with lots of vanilla. The finish is nearly short, but a very slightly sour presence remains for awhile longer. Nicely different. Highly recommended.
 
 Purchased from [Lunds and Byerlys Roseville](https://lundsandbyerlys.com/our-stores/locations/roseville/)
 
