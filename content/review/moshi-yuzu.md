@@ -1,7 +1,7 @@
 ---
 title: "Moshi Yuzu" # Title of the blog post.
 date: 2022-03-31T09:02:27-05:00 # Date of post creation.
-featured: false # Sets if post is a featured post, making appear on the home page side bar.
+featured: true # Sets if post is a featured post, making appear on the home page side bar.
 # thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/review/thumbs/moshi-yuzu.jpg" # Sets thumbnail image appearing inside card on homepage.
 thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/7b8302f0-ce02-47ab-61a2-33cee2c36200/thumb"
 categories:
