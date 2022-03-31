@@ -5,4 +5,4 @@ website: "https://www.brucecostgingerale.com"
 location: "Brooklyn, New York, USA"
 ---
 
-Well known for a range of unfiltered, natural ginger ales. Nationally distributed in the US.
+Well known for a range of unfiltered, natural ginger ales. Nationally distributed in the US. Produced by the Brooklyn Food & Beverage company.

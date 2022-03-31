@@ -15,6 +15,7 @@ tags:
 - Passion Fruit
 brands:
 - Bruce Cost
+- Brooklyn Food & Beverage
 ---
 
 Medium sweet. Very slight fruit flavor over usual excellent ginger. Ok.

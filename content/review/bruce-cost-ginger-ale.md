@@ -12,6 +12,7 @@ tags:
 - Ginger Ale
 brands:
 - Bruce Cost
+- Brooklyn Food & Beverage
 ---
 
 **NOTE:** Another of the early pre-cursors to actual soda reviews on Twitter.
