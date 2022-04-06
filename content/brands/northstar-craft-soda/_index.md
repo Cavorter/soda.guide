@@ -4,7 +4,7 @@ date: 2022-04-06T10:50:21-05:00 # Date of post creation.
 website: "https://northstarsoda.com/"
 location: "Spring Lake Park, Minnesota, USA"
 aliases: [
-    "/brands/north-star-craft-soda/index.html"
+    "/brands/north-star-craft-soda/index.html",
     "/brands/north-star-craft-soda"
 ]
 ---
