@@ -1,5 +1,5 @@
 ---
-title: "North Star Craft Soda Root Beer"
+title: "Northstar Craft Soda Root Beer"
 date: 2015-06-25
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/north-star-craft-soda-root-beer.jpg"
@@ -12,7 +12,7 @@ tags:
 - Root Beer
 - Anise
 brands:
-- North Star Craft Soda
+- Northstar Craft Soda
 ---
 
 Very sweet. Good complexity. Long soft anise finish. Recommended.

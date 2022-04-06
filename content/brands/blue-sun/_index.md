@@ -9,7 +9,7 @@ Regional specialty soda distributor and bottler. Produces a number of novelty br
 
 Manufacturers the following brands:
 - [Kiddie Cocktails](/brands/kiddie-cocktails)
-- [Northstar Craft Soda](/brands/north-star-craft-soda)
+- [Northstar Craft Soda](/brands/northstar-craft-soda)
 - [Serenity Sodas](/brands/serenity-sodas)
 - [Whistler](/brands/whistler)
 - [W.T. Heck](/brands/w.t.-heck)

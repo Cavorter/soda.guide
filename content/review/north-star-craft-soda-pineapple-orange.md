@@ -1,5 +1,5 @@
 ---
-title: "North Star Craft Soda Pineapple Orange"
+title: "Northstar Craft Soda Pineapple Orange"
 date: 2015-07-16
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/north-star-pineapple-orange.jpg"
@@ -14,7 +14,7 @@ tags:
 - Orange
 - Pineapple
 brands:
-- North Star Craft Soda
+- Northstar Craft Soda
 ---
 
 Sugarbomb. Strong pineapple with firm orange undertones. Nice but lingering finish. Ok.

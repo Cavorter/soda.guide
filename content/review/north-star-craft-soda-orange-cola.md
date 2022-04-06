@@ -1,5 +1,5 @@
 ---
-title: "North Star Craft Soda Orange Cola"
+title: "Northstar Craft Soda Orange Cola"
 date: 2015-07-02
 featured: false
 thumbnail: "https://sodaguideimg.blob.core.windows.net/content/review/thumbs/north-star-orange-cola.jpg"
@@ -14,7 +14,7 @@ tags:
 - Citrus
 - Orange
 brands:
-- North Star Craft Soda
+- Northstar Craft Soda
 ---
 
 Well balanced orange and cola flavors. Slightly tart in the middle. Recommended.
