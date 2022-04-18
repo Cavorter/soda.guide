@@ -16,7 +16,7 @@ brands:
 - Vina
 ---
 
-Medium sweet. Intense start frontloaded with huge fruit and a little bit of pucker. The stevia is a bit more prominent in the middle than I would normally like but does work well with the floral aspects of the pomegranate. The finish is extremely long and mostly pleasantly perfumey but just enough bitterness to seem very slightly off.
+Medium sweet. Intense start frontloaded with huge fruit and a little bit of pucker. The stevia is a bit more prominent in the middle than I would normally like but does work well with the floral aspects of the pomegranate. The finish is extremely long and mostly pleasantly perfumey but just enough bitterness to seem very slightly off. Ok.
 
 Purchased from [Snackmagic](https://www.snackmagic.com)
 
