@@ -6,9 +6,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/96c5aa5d-a0fc-4eb8-
 categories:
 - soda
 ratings:
-- Pass
 - Ok
-- Recommended
 tags:
 - Very Sweet
 - Fruit
