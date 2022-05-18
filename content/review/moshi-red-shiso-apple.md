@@ -8,7 +8,6 @@ categories:
 ratings:
 - Recommended
 tags:
-- Medium Sweet
 - Quite Sweet
 - Fruit
 - Citrus
