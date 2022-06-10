@@ -17,6 +17,8 @@ brands:
 - Greenbar Distillery
 ---
 
+**NOTE**: Chill thoroughly before opening the can. All of the room temperature cans I have opened have gushed significantly.
+
 Slightly sweet. A well structured flavor profile with a defined clove base, layers of herbal tones tops off with jasmine, all while surrounding a floating lightly bitter core. The flavor is remarkably stable from start to finish, possibly due to the predominance of clove throughout. Might be the closest I've gotten to a good craft mocktail in a can. Recommended.
 
 Purchased from [Top Ten Liquors Roseville](https://toptenliquors.com)
