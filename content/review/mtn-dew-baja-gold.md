@@ -9,6 +9,8 @@ ratings:
 - Ok
 tags:
 - Very Sweet
+- Fruit
+- Pineapple
 brands:
 - Mtn Dew
 - Mountain Dew
