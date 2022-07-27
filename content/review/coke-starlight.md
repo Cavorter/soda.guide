@@ -15,6 +15,7 @@ tags:
 - Novelty
 brands:
 - Coca-Cola
+- Coke Creations
 ---
 
 Very sweet. Coke has done pretty well in getting people to ask a pretty odd question the past few weeks: "What does 'space' taste like?" It's not hard to see why since the can actually does say "Space Flavored" on the label. I got a pack of both the regular sugar and zero sugar varieties the first week they were out and I've been trying to answer that question myself ever since. A lot of people around the internet have posited "s'mores", and I don't think they're totally wrong. It is worth saying that Coke Classic is definitely the base flavor and is present, however what is layered over the top is quite different. My opinion? Bourbon vanilla and eucalyptus. Bourbon vanilla because this is similar to the old Vanilla Coke, but has a bit more smoke or wood to it. Eucalyptus because there is a definite cooling effect that is characteristic of the flavor that some people describe as minty. Either way it is very different and probably worth trying if you like colas. Ok.

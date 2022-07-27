@@ -16,6 +16,7 @@ tags:
 - Acesulfame Potassium
 brands:
 - Coca-Cola
+- Coke Creations
 ---
 
 Very sweet. Most of the things I said in [the review of the sugared variety](../coke-starlight) applies here. I think the artificial sweetener blend might work slightly better. The "subtle cooling sensation" feels slightly less out of place among the inherently artificial NutraSweet and AceK flavors. Ok.

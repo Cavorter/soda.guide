@@ -18,6 +18,7 @@ tags:
 - Sucralose
 brands:
 - Coca-Cola
+- Coke Creations
 ---
 
 I have to be honest: I did stay up late and ordered my box as soon as they went on sale. Turns out I probably didn't have to be quite so diligent. It was fun to at least feel like I was getting in early on something even if I didn't get to trying it until today. It should be noted that the packaging is great. Everything from the pixelated font to the "Player 1" and "Player 2" labels on the insert holding the cans is really well put together and it was a ton of fun opening the box. I'll have photos of the packaging in a post on my main blog soon about some of the fun packaging I've been seeing lately.
