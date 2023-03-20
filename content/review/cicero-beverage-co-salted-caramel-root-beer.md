@@ -17,7 +17,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 456203781844533248 >}}
+<!-- \{\{< tweet 456203781844533248 >\}\} -->
 
 Text:
 > Cicero Beverage Co Salted Caramel Root Beer. I see what they tried for. Some depth, too sweet, kind of a mess. Pass.

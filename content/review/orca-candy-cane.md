@@ -15,7 +15,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 523663244406571008 >}}
+<!-- \{\{< tweet 523663244406571008 >\}\} -->
 
 In case the tweet is ever deleted, it reads:
 > Candy Cane (Orca): SWEET. Decent mint but slightly muddied by some other flavor, not totally in a bad way. Ok.

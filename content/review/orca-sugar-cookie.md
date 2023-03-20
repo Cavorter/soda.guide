@@ -16,7 +16,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 523664057124257793 >}}
+<!-- \{\{< tweet 523664057124257793 >\}\} -->
 
 In case the tweet is ever deleted, it reads:
 > Sugar Cookie(Orca): SWEET. Not worst cream soda I've had but close. Bad vanilla with fake butter flavor. Stay away.

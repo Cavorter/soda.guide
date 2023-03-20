@@ -17,6 +17,6 @@ brands:
 
 **NOTE:** Another of the early pre-cursors to actual soda reviews on Twitter.
 
-{{< tweet 19183843466551297 >}}
+<!-- \{\{< tweet 19183843466551297 >\}\} -->
 
 > \"Fresh Ginger Ginger Ale by Bruce Cost\" verdict: Quite good http://twitpic.com/3k1d8r
