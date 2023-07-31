@@ -18,8 +18,8 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 448155105192607744 >}}
-{{< tweet 448172149782503424 >}}
+<!-- \{\{< tweet 448155105192607744 >\}\} -->
+<!-- \{\{< tweet 448172149782503424 >\}\} -->
 
 Text:
 > Saranac 1888 Ginger Beer: Soft feel, nicely sweet, good ginger but no fire. Excellent oak smokey finish. Recommended.

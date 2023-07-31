@@ -16,7 +16,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 442832133485506560 >}}
+<!-- \{\{< tweet 442832133485506560 >\}\} -->
 
 Text:
 > Q Kola: lovely, lovely stuff. Subtle, nicely carbonated, delicate sweetness. Worth the (steep) price.

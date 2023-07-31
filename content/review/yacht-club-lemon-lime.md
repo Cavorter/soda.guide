@@ -20,7 +20,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 375433412883914752 >}}
+<!-- \{\{< tweet 375433412883914752 >\}\} -->
 
 Text:
 > Today Soda: Yacht Club Lemon-Lime. Nearly a sugar bomb. Reminds me of sno-cones, but in a good way.

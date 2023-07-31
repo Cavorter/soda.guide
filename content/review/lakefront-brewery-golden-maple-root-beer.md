@@ -17,7 +17,7 @@ brands:
 
 **NOTE:** This review is an early item I found in my old Twitter stream that counts as a soda review. It is not in the more useful later form of review but I am including it for posterity.
 
-{{< tweet 377528498593988608 >}}
+<!-- \{\{< tweet 377528498593988608 >\}\} -->
 
 Text:
 > Lakefront Brewery Golden Maple Root Beer: Very subtle maple. Very nice "creamy" flavor. Very sweet. Pretty good.
