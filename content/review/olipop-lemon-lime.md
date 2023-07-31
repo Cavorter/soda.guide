@@ -7,7 +7,6 @@ categories:
 - soda
 ratings:
 - Ok
-- Recommended
 tags:
 - Medium Sweet
 brands:
