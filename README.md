@@ -23,6 +23,7 @@ Before using New-Review.ps1 add the following files to the root of the project:
 $cfAccount = Get-Clipboard
 
 # Create new Cloudflare API token scoped to Edit on Cloudflare Images
+# Note: Use profile API Tokens only. CloudFlare Images tokens do not work here.
 $cftoken = Get-Clipboard | Convertto-SecureString -AsPlainText -Force
 
 # Persist the information to disk in a relatively secure fashion
