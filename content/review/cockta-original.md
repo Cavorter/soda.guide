@@ -9,6 +9,7 @@ ratings:
 - Ok
 tags:
 - Very Sweet
+- Herbal
 brands:
 - Cockta
 ---

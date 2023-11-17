@@ -9,6 +9,7 @@ ratings:
 - Pass
 tags:
 - Very Sweet
+- Cola
 brands:
 - Coca-Cola
 - Coke Creations
