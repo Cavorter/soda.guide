@@ -9,6 +9,10 @@ ratings:
 - Ok
 tags:
 - Quite Sweet
+- Fruit
+- Peach
+- Near Beer
+- Malt
 brands:
 - Moussy
 ---

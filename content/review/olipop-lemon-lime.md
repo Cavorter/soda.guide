@@ -9,6 +9,11 @@ ratings:
 - Ok
 tags:
 - Medium Sweet
+- Fruit
+- Citrus
+- Lemon
+- Lime
+- Lemon-Lime
 brands:
 - Olipop
 ---
