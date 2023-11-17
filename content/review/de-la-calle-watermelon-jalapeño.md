@@ -2,7 +2,7 @@
 title: "De La Calle Tepache Watermelon Jalapeño" # Title of the blog post.
 date: 2022-09-02T21:00:36-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
-thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/image-id-here/thumb"
+thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/fcdd2d97-40ef-48b7-6265-2b038412e500/thumb"
 categories:
 - other
 ratings:
@@ -23,4 +23,4 @@ Quite sweet. The fermentation does change some of the flavor characteristics you
 
 Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
 
-{{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/image-id-here/public" >}}
+{{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/fcdd2d97-40ef-48b7-6265-2b038412e500/public" >}}
