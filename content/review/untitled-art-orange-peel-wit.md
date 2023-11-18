@@ -1,5 +1,5 @@
 ---
-title: "Untitled Art Orange Peel Wit" # Title of the blog post.
+title: "Untitled Art Non Alcoholic Orange Peel Wit" # Title of the blog post.
 date: 2023-11-18T13:07:16-06:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/1b93fa30-a144-4e33-e640-d30a2d0dbb00/thumb"
