@@ -2,7 +2,7 @@
 title: "Untitled Art Chocolate Milk" # Title of the blog post.
 date: 2024-02-17T14:10:32-06:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
-thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/image-id-here/thumb"
+thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/2bf3f89e-ca98-4ed3-4f97-aae19a840400/thumb"
 categories:
 - other
 ratings:
@@ -20,4 +20,4 @@ Quite sweet. It has been a really long time since I have had actual chocolate mi
 
 Purchased from [Marigold Saint Paul](https://shop.honeycombmpls.com/)
 
-<!-- {{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/image-id-here/public" >}} -->
+{{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/2bf3f89e-ca98-4ed3-4f97-aae19a840400/public" >}}
