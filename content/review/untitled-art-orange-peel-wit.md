@@ -6,9 +6,7 @@ thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/1b93fa30-a144-4e33-
 categories:
 - other
 ratings:
-- Pass
 - Ok
-- Recommended
 tags:
 - Medium Sweet
 - Near Beer
