@@ -2,7 +2,7 @@
 title: "Coca Cola Spiced" # Title of the blog post.
 date: 2024-03-22T16:19:08-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
-thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/dedd8daa-7705-4015-cd02-d6195f0c2a00/thumb"
+thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/85adc34f-0017-4027-4448-c9f3ead08200/thumb"
 categories:
 - soda
 ratings:
@@ -23,4 +23,4 @@ Very sweet. Opening the bottle fills the air with the scent of red fruit. The ra
 
 Purchased from [Lunds and Byerlys Roseville](https://lundsandbyerlys.com/our-stores/locations/roseville/)
 
-{{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/dedd8daa-7705-4015-cd02-d6195f0c2a00/public" >}}
+{{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/85adc34f-0017-4027-4448-c9f3ead08200/public" >}}
