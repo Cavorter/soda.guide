@@ -1,3 +1,5 @@
+#requires -modules pester,powershell-yaml
+
 BeforeDiscovery {
     $reviewDir = Join-Path -Path $PSScriptRoot -ChildPath content -AdditionalChildPath review
     $reviewFiles = Get-ChildItem -Path $reviewDir\*.md
