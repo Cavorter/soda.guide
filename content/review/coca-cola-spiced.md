@@ -1,5 +1,5 @@
 ---
-title: "Coca Cola Spiced" # Title of the blog post.
+title: "Coca-Cola Spiced" # Title of the blog post.
 date: 2024-03-22T16:19:08-05:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/85adc34f-0017-4027-4448-c9f3ead08200/thumb"
