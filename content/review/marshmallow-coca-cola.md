@@ -16,7 +16,7 @@ tags:
 - Berry
 - Strawberry
 brands:
-- Coka-Cola
+- Coca-Cola
 - Coke Creations
 ---
 

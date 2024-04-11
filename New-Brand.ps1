@@ -11,7 +11,7 @@ Set-Location -Path $PSScriptRoot
 
 # Get Hugo version
 $versionRaw = (hugo version).Split(' ')[1]
-$versionObj = [version]$versionRaw.Substring(1, $versionRaw.length - 1).Split('-')[0]
+$versionObj = [version]$versionRaw.Substring(1,$versionRaw.length-1).Split('-').Split('+')[0]
 $contentIndex = $versionObj -lt "0.92.0" ? 0 : 1
 
 $result = &hugo new "brands/$($Name)/_index.md"
