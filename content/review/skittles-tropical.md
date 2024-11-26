@@ -15,7 +15,7 @@ brands:
 - Fire Brands
 ---
 
-Very sweet. The very best feature is the color which is a very pleasant blue. It does downhill very quickly from here. The smell is something I can only describe as "blue pineapple", which is similar to the overly artificial flavor known as "blue raspberry", but with pineapple instead. The flavor is strong and can only be described as "urinal cake" and lasts well in to the offensively long finish. Avoid. Pass.
+Very sweet. The very best feature is the color which is a very pleasant blue. It goes downhill very quickly from here. The smell is something I can only describe as "blue pineapple", which is similar to the overly artificial flavor known as "blue raspberry", but with pineapple instead. The flavor is strong and can only be described as "urinal cake" and lasts well in to the offensively long finish. Avoid. Pass.
 
 Purchased at [Target](https://target.com)
 
