@@ -1,6 +1,6 @@
 ---
 title: "Gini Lemon" # Title of the blog post.
-date: 2024-11-25T20:10:49-06:00 # Date of post creation.
+date: 2024-04-18T12:24:49 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/119efaec-ad5a-48c7-746a-45e5ca9ee400/thumb"
 categories:
