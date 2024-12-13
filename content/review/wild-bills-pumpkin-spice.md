@@ -15,7 +15,7 @@ tags:
 - Allspice
 - Cinnamon
 brands:
-- Wild Bill's
+- wild-bills
 ---
 
 Very sweet. Very "scented candle"-esque start resolves to mostly vanilla and cinnamon with some allspice and clove to add some complexity. The sweetness never quite dies away, both the middle and end still retain that very sugary start but also does not come across as candy-like either. tries to walk a line between kid and adult palates but seems to embrace the kid side more seriously. Very long finish. Ok.
