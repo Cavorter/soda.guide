@@ -1,5 +1,5 @@
 ---
-title: "Wild Bills Vanilla Cream" # Title of the blog post.
+title: "Wild Bill's Vanilla Cream" # Title of the blog post.
 date: 2024-12-13T16:03:02-06:00 # Date of post creation.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/f98019f2-3fa3-4ab9-5f0f-dd506cb64f00/thumb"
