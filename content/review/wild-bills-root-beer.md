@@ -19,7 +19,7 @@ brands:
 - wild-bills
 ---
 
-Quite sweet. Easy mint start gains butterscotch in the middle before transforming caramel for the end. The wintergreen graows throughout but never becomes overpowering. Fairly remarkable depth, including a lightly sour herbal note in the finish that adds rather than distracts. Recommended
+Quite sweet. Easy mint start gains butterscotch in the middle before transforming into caramel for the end. The wintergreen grows throughout but never becomes overpowering. Fairly remarkable depth, including a lightly sour herbal note in the finish that adds rather than distracts. Recommended
 
 Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
 
