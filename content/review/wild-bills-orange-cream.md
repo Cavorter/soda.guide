@@ -19,6 +19,6 @@ brands:
 
 Very sweet. Vanilla and artificial orange in equal measure provide a pretty classic flavor. Lightly tart base provides some relief from the overwhelming sugar. Mostly inoffensive, but extremely long, finish. Ok.
 
-content/review/wild-bills-pumpkin-spice.md
+Purchased at [Tim and Tom's Speedy Market](https://www.timandtomsspeedymarket.com/).
 
 {{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/0ab0675e-4dcd-4301-9926-befddb62e700/public" >}}
