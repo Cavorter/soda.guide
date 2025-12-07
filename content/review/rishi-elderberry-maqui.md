@@ -9,6 +9,12 @@ ratings:
 - Ok
 tags:
 - Slightly Sweet
+- Fruit
+- Berry
+- Elderberry
+- Maqui
+- Tea
+- Rooibos
 brands:
 - Rishi
 ---
