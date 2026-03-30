@@ -5,13 +5,13 @@ featured: false # Sets if post is a featured post, making appear on the home pag
 thumbnail: "https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/2749bad5-38fc-4a3c-3b06-460d18518f00/thumb"
 categories:
 - soda
-- fruit
-- mango
-- stevia
 ratings:
 - Pass
 tags:
 - Medium Sweet
+- fruit
+- mango
+- stevia
 brands:
 - Popwell
 - Sparkling ICE
