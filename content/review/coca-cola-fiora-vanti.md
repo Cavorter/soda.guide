@@ -9,6 +9,7 @@ ratings:
 - Pass
 tags:
 - SUGARBOMB
+- Red Pop
 brands:
 - Fiora Vanti
 - Coca-Cola

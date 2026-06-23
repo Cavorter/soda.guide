@@ -11,6 +11,7 @@ tags:
 - SUGARBOMB
 - Fruit
 - Banana
+- Red Pop
 brands:
 - Filbert's
 ---
