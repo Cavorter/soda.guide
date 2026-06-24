@@ -11,6 +11,9 @@ tags:
 - Very Sweet
 - Pickle
 - Dill
+- Fruit
+- Citrus
+- Lemon-Lime
 brands:
 - Lester's Fixins
 - Rocket Fizz
