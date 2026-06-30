@@ -22,4 +22,3 @@ Quite sweet. Almost exactly what one would expect from the name. Strong cinnamon
 Purchased from [Urban Growler Brewing](https://www.urbangrowlerbrewing.com/)
 
 {{< figure src="https://imagedelivery.net/KgfQTd5KhvjVUOGHhRyJ5A/1cd734f7-1965-48e5-f22f-1668affc4c00/public" >}}
-
