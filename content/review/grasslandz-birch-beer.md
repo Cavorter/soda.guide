@@ -14,7 +14,7 @@ tags:
 - Vanilla
 - Honey
 brands:
-- Grassslandz
+- Grasslandz
 ---
 
 Quite sweet. An interesting take on a birch beer, and honestly a bit closer to a classic root beer. The vanilla is early and luscious with the named birch wintergreen providing a stable base. The flavor is remarkably consistent throughout, peaking in intensity very early and then steadily remaining velvety and present into a delicious long finish. Strongly recommended
