@@ -11,7 +11,7 @@ Begin {
     $ErrorActionPreference = "Stop"
 
     $context = ( Get-AzStorageAccount -ResourceGroupName soda-guide -Name sodaguideimg ).Context
-    $fileName = "$Name.jpg"
+    $fileName = "$Name.j?pg"
     $imgName = Join-Path -Path $RootPath -ChildPath $fileName
     $tmbName = Join-Path -Path $RootPath -ChildPath thumbs -AdditionalChildPath $fileName
 }

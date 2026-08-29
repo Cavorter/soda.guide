@@ -19,7 +19,7 @@ Set-Location -Path $PSScriptRoot
 # Image
 if ( -not $NoImage ) {
     # Find the image file
-    $imagePath = Join-Path -Path $localSettings.imagePath -ChildPath ( $Name + ".jpg" )
+    $imagePath = Join-Path -Path $localSettings.imagePath -ChildPath ( $Name + ".*" )
     if ( Test-Path -Path $imagePath ) {
         $imageFile = Get-Item -Path $imagePath
         $paramPath = Join-Path -Path $PSScriptRoot -ChildPath cfParams.xml
