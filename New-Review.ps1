@@ -11,8 +11,7 @@ Param(
 
 # $ErrorActionPreference = "Stop"
 
-$localSettingsPath = Join-Path -Path $PSScriptRoot -ChildPath local.settings.json
-$localSettings = Get-Content -Path $localSettingsPath | ConvertFrom-Json -AsHashtable
+$localSettings = ./Get-LocalSettings.ps1
 
 Set-Location -Path $PSScriptRoot
 

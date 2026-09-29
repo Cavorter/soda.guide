@@ -8,7 +8,6 @@ categories:
 ratings:
 - Ok
 tags:
-- Medium Sweet
 - Quite Sweet
 - Fruit
 - Berry
